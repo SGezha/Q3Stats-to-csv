@@ -1,0 +1,128 @@
+
+AdrenalineRush: =)
+
+Accuracy info for: MIll
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/8        0      0      0     0
+R.Launcher  :   21.4   18/84       2      4      0     0
+LightningGun:   22.4  119/531      2      7      0     0
+Railgun     :   44.4    8/18       2      2      0     0
+Plasmagun   :    0.0    0/3        0      0      0     0
+
+Damage Given: 3105   Armor Taken : 90 (1 YA)
+Damage Recvd: 4007   Health Taken: 0
+
+Accuracy info for: *S*R*A*M*
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/19       0      0      0     0
+R.Launcher  :   38.5   42/109      6      3      0     0
+LightningGun:   31.9   71/222      0      9      0     0
+Railgun     :   14.2    1/7        0      3      0     0
+
+Damage Given: 3159   Armor Taken : 155 (1 RA)
+Damage Recvd: 4856   Health Taken: 275 (1 MH)
+
+Accuracy info for: [bst]KRISA
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   19.7   16/81       2      3      0     0
+LightningGun:   33.8  277/818     11      4      0     0
+Railgun     :   64.7   11/17       2      3      0     0
+
+Damage Given: 4570   Armor Taken : 600 (1 YA, 5 RA)
+Damage Recvd: 4154   Health Taken: 300 (1 MH)
+
+Accuracy info for: def
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   17.6    9/51       1      3      0     0
+LightningGun:   31.7   65/205      4      8      0     0
+Railgun     :   56.0   28/50       4      4      0     0
+
+Damage Given: 3887   Armor Taken : 300 (3 YA, 1 RA)
+Damage Recvd: 5106   Health Taken: 100 (1 MH)
+
+Accuracy info for: Asuna
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :                      0      1      0     0
+G.Launcher  :    0.0    0/4        0      0      0     0
+R.Launcher  :   27.9   31/111      5      2      0     0
+LightningGun:   40.1  224/558      8      5      0     0
+Railgun     :   55.2   21/38       5      6      0     0
+
+Damage Given: 5620   Armor Taken : 540 (3 YA, 3 RA)
+Damage Recvd: 4986   Health Taken: 500 (4 MH)
+
+Accuracy info for: asv
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/2        0      0      0     0
+R.Launcher  :   33.3   23/69       2      5      0     0
+LightningGun:   25.2  140/555      5      5      0     0
+Railgun     :   37.7   20/53       6      1      0     0
+
+Damage Given: 4382   Armor Taken : 300 (2 RA)
+Damage Recvd: 4278   Health Taken: 275
+
+Accuracy info for: AdrenalineRush
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :    0.0    1/0        0      0
+Shotgun     :   54.5   12/22       1      0      0     0
+R.Launcher  :   37.5   24/64       4      4      0     0
+LightningGun:   40.3  346/857     12      1      0     0
+Railgun     :   48.8   22/45       6      5      0     0
+
+Damage Given: 7168   Armor Taken : 335 (3 RA)
+Damage Recvd: 4442   Health Taken: 150 (1 MH)
+
+Accuracy info for: .unk
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/3        0      0      0     0
+R.Launcher  :   19.5   17/87       4      2      0     0
+LightningGun:   27.3  143/522      5      8      0     0
+Railgun     :   35.2    6/17       1      2      0     0
+
+Damage Given: 3129   Armor Taken : 215 (4 YA)
+Damage Recvd: 3610   Health Taken: 225 (2 MH)
+AdrenalineRush: gg
+
+Map: ts_dm5
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  AdrenalineRush   23   1  10   0  0   7  70  7168  4442    0     24
+RED  [bst]KRISA       15   2  10   0  0   7  62  4570  4154    0     17
+RED  asv              13   2  11   0  0   9  57  4382  4278    0     15
+RED  MIll              6   1  13   0  0   7  35  3105  4007    0      7
+-----------------------------------------------------------------------
+RED  Totals           57   6  44   0  0  30  18 19225 16881    0     10
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE Asuna            18   0  14   0  0   5  56  5620  4986    0     18
+BLUE .unk             10   4  12   0  0   3  53  3129  3610    0     14
+BLUE def               9   3  15   0  0   4  44  3887  5106    0     12
+BLUE *S*R*A*M*         6   1  15   0  0   5  31  3159  4856    0      7
+-----------------------------------------------------------------------
+BLUE Totals           43   8  56   0  0  17  11 15795 18558    0      7
+
+
+
+
+Current time: 20:05:38 (07 Nov 2023)
+
+Dumped console text to stats/2023.11.07/200541.txt.

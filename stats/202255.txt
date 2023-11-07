@@ -1,0 +1,101 @@
+
+
+Accuracy info for: Asuna
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   16.6    1/6        0      0      0     0
+R.Launcher  :   22.9   14/61       2      1      0     0
+LightningGun:   35.3  299/845     13      3      0     0
+Railgun     :   43.7   14/32       4      2      0     0
+
+Damage Given: 4481   Armor Taken : 540 (1 YA, 4 RA)
+Damage Recvd: 3284   Health Taken: 450 (3 MH)
+
+Accuracy info for: ixsy
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   33.3    1/3        0      0      0     0
+R.Launcher  :   39.0   25/64       3      0      0     0
+LightningGun:   50.3  129/256      4      4      0     0
+Railgun     :   26.1   11/42       1      4      0     0
+Plasmagun   :   32.3   54/167      2      0      0     0
+
+Damage Given: 4736   Armor Taken : 410 (3 YA, 2 RA)
+Damage Recvd: 3908   Health Taken: 250 (1 MH)
+
+Accuracy info for: Cybra
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   15.1   12/79       1      2      0     0
+LightningGun:   38.9  127/326      3      6      0     0
+Railgun     :   50.0   15/30       3      2      0     0
+Plasmagun   :                      0      1      0     0
+
+Damage Given: 3341   Armor Taken : 365 (1 YA, 3 RA)
+Damage Recvd: 3881   Health Taken: 200 (1 MH)
+
+Accuracy info for: R72.LOKOMOTIV
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   13.7    4/29       0      1      0     0
+LightningGun:   30.8  169/548      2      8      0     0
+Railgun     :   40.6   24/59       6      5      0     0
+
+Damage Given: 3959   Armor Taken : 510 (2 YA, 3 RA)
+Damage Recvd: 4671   Health Taken: 250 (1 MH)
+
+Accuracy info for: ixxaaa
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    4.5    1/22       0      0      0     0
+G.Launcher  :    0.0    0/3        0      0      0     0
+R.Launcher  :   18.7    6/32       0      0      0     0
+LightningGun:   31.7  158/497      4      3      0     0
+Railgun     :   50.0   17/34       4      4      0     0
+
+Damage Given: 3278   Armor Taken : 180 (3 YA)
+Damage Recvd: 3167   Health Taken: 150 (1 MH)
+
+Accuracy info for: John Coffey
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/1        0      0      0     0
+R.Launcher  :   28.8   15/52       0      2      0     0
+LightningGun:   31.7  218/686      5      7      0     0
+Railgun     :   54.5    6/11       1      2      0     0
+Plasmagun   :                      0      1      0     0
+
+Damage Given: 3059   Armor Taken : 325 (1 YA, 2 RA)
+Damage Recvd: 3943   Health Taken: 250 (1 MH)
+
+Map: ts_dm5
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  R72.LOKOMOTIV     8   0  14   0  0   2  36  3959  4671    0      8
+RED  Cybra             7   0  11   0  0   4  38  3341  3881    0      7
+RED  John Coffey       6   1  12   0  0   3  36  3059  3943    0      7
+-----------------------------------------------------------------------
+RED  Totals           21   1  37   0  0   9  11 10359 12495    0      5
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE Asuna            19   1   6   0  0   9  76  4481  3284    0     20
+BLUE ixsy             10   1   8   0  0   8  57  4736  3908    0     11
+BLUE ixxaaa            8   0   7   0  0   9  53  3278  3167    0      8
+-----------------------------------------------------------------------
+BLUE Totals           37   2  21   0  0  26  32 12495 10359    0     10
+
+
+
+
+Current time: 20:22:53 (07 Nov 2023)
+
+Dumped console text to stats/2023.11.07/202255.txt.

@@ -6,7 +6,10 @@ const playersBase = []
 const statsDir = fs.readdirSync('stats')
 
 statsDir.forEach((path) => {
+  console.log(`stats/${path}`)
   const playersStats = parseGame(`stats/${path}`)
+
+  if(!playersStats) return console.log('Error parse')
 
   //   add info to bd
   playersStats.forEach((pl) => {
@@ -38,6 +41,13 @@ statsDir.forEach((path) => {
       }
     } else {
       let weaponStats = {
+        Gauntlet: {
+          hits: 0,
+          miss: 0,
+          kills: 0,
+          deaths: 0,
+          acc: 0
+        },
         MachineGun: {
           hits: 0,
           miss: 0,
