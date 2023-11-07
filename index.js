@@ -16,6 +16,7 @@ statsDir.forEach((path) => {
       profile.kills += pl.kills
       profile.deaths += pl.deaths
       profile.thw += pl.thw
+      profile.score += pl.score
       profile.damageGiven += pl.damageGiven
       profile.damageRecvd += pl.damageRecvd
       for (let key in profile.weaponStats) {
@@ -39,6 +40,8 @@ async function start() {
   const csv = await converter.json2csv(playersBase)
   fs.writeFileSync('result.csv', csv)
   console.log('Parse completed -->> result.csv')
+  console.log('Консоль закроется через 30 сек')
+  setTimeout(() => {}, 30 * 1000)
 }
 
 start()
