@@ -6,10 +6,9 @@ const playersBase = []
 const statsDir = fs.readdirSync('stats')
 
 statsDir.forEach((path) => {
-  console.log(`stats/${path}`)
   const playersStats = parseGame(`stats/${path}`)
 
-  if(!playersStats) return console.log('Error parse')
+  if(!playersStats) return console.log(`Error parse file - stats/${path}`)
 
   //   add info to bd
   playersStats.forEach((pl) => {
