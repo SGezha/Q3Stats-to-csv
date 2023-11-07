@@ -43,7 +43,7 @@ module.exports = (path) => {
 
   let players = []
 
-  console.log(`Parsing game - ${map} ${date}`)
+  console.log(`Parsing game ${path} - ${map} ${date}`)
 
   if (data.indexOf('Accuracy info for: ') == -1)
     stats = red
