@@ -20,7 +20,7 @@ statsDir.forEach((path) => {
       profile.damageGiven += pl.damageGiven
       profile.damageRecvd += pl.damageRecvd
       for (let key in profile.weaponStats) {
-        if (!profile.weaponStats[key] || key == 'MachineGun') continue
+        if (!pl.weaponStats[key] || key == 'MachineGun') continue
         profile.weaponStats[key].hits += pl.weaponStats[key].hits
         profile.weaponStats[key].miss += pl.weaponStats[key].miss
         profile.weaponStats[key].kills += pl.weaponStats[key].kills
@@ -29,9 +29,83 @@ statsDir.forEach((path) => {
           (+profile.weaponStats[key].hits / +profile.weaponStats[key].miss) *
           100
         ).toFixed(1)
+        if (
+          profile.weaponStats[key].hits == 0 &&
+          profile.weaponStats[key].miss == 0
+        ) {
+          profile.weaponStats[key].acc = 0
+        }
       }
     } else {
-      playersBase.push(pl)
+      let weaponStats = {
+        MachineGun: {
+          hits: 0,
+          miss: 0,
+          kills: 0,
+          deaths: 0,
+          acc: 0
+        },
+        Shotgun: {
+          hits: 0,
+          miss: 0,
+          kills: 0,
+          deaths: 0,
+          acc: 0
+        },
+        'G.Launcher': {
+          hits: 0,
+          miss: 0,
+          kills: 0,
+          deaths: 0,
+          acc: 0
+        },
+        'R.Launcher': {
+          hits: 0,
+          miss: 0,
+          kills: 0,
+          deaths: 0,
+          acc: 0
+        },
+        'LightningGun:': {
+          hits: 0,
+          miss: 0,
+          kills: 0,
+          deaths: 0,
+          acc: 0
+        },
+        Railgun: {
+          hits: 0,
+          miss: 0,
+          kills: 0,
+          deaths: 0,
+          acc: 0
+        },
+        Plasmagun: {
+          hits: 0,
+          miss: 0,
+          kills: 0,
+          deaths: 0,
+          acc: 0
+        }
+      }
+      for (let key in pl.weaponStats) {
+        if (!pl.weaponStats[key]) continue
+        weaponStats[key].hits += pl.weaponStats[key].hits
+        weaponStats[key].miss += pl.weaponStats[key].miss
+        weaponStats[key].kills += pl.weaponStats[key].kills
+        weaponStats[key].deaths += pl.weaponStats[key].deaths
+        weaponStats[key].acc = +(
+          (+pl.weaponStats[key].hits / +pl.weaponStats[key].miss) *
+          100
+        ).toFixed(2)
+        if (pl.weaponStats[key].hits == 0 && pl.weaponStats[key].miss == 0) {
+          weaponStats[key].acc = 0
+        }
+      }
+      playersBase.push({
+        ...pl,
+        weaponStats
+      })
     }
   })
 })
