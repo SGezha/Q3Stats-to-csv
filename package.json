@@ -1,0 +1,22 @@
+{
+  "name": "q3stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "build": "pkg package.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-2-csv": "^5.0.1"
+  },
+  "pkg": {
+    "targets": [
+      "node14-win-x64"
+    ],
+    "outputPath": "dist"
+  }
+}
