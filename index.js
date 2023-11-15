@@ -22,7 +22,7 @@ statsDir.forEach((path) => {
       profile.damageGiven += pl.damageGiven
       profile.damageRecvd += pl.damageRecvd
       for (let key in profile.weaponStats) {
-        if (!pl.weaponStats[key] || key == 'MachineGun') continue
+        if (!pl.weaponStats[key] || key == 'Gauntlet') continue
         profile.weaponStats[key].hits += pl.weaponStats[key].hits
         profile.weaponStats[key].miss += pl.weaponStats[key].miss
         profile.weaponStats[key].kills += pl.weaponStats[key].kills
@@ -40,13 +40,6 @@ statsDir.forEach((path) => {
       }
     } else {
       let weaponStats = {
-        Gauntlet: {
-          hits: 0,
-          miss: 0,
-          kills: 0,
-          deaths: 0,
-          acc: 0
-        },
         MachineGun: {
           hits: 0,
           miss: 0,
@@ -98,7 +91,7 @@ statsDir.forEach((path) => {
         }
       }
       for (let key in pl.weaponStats) {
-        if (!pl.weaponStats[key]) continue
+        if (!pl.weaponStats[key] || key == 'Gauntlet') continue
         weaponStats[key].hits += pl.weaponStats[key].hits
         weaponStats[key].miss += pl.weaponStats[key].miss
         weaponStats[key].kills += pl.weaponStats[key].kills
