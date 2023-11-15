@@ -1,0 +1,101 @@
+
+
+Accuracy info for: ///Mus1n*
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+MachineGun  :    0.0    0/4        0      0
+R.Launcher  :   46.8   22/47       2      3      0     0
+LightningGun:   35.5  168/472      7      4      0     0
+Railgun     :   50.0    1/2        0      1      0     0
+Plasmagun   :    2.0    1/50       0      0      0     0
+
+Damage Given: 2917   Armor Taken : 395 (1 YA, 3 RA)
+Damage Recvd: 3150   Health Taken: 170 (1 MH)
+
+Accuracy info for: tc belaruskij
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/9        0      0      0     0
+R.Launcher  :   29.3   17/58       5      2      0     0
+LightningGun:   39.0  246/630      6      1      0     0
+Railgun     :   46.6    7/15       4      1      0     0
+Plasmagun   :                      0      2      0     0
+
+Damage Given: 4056   Armor Taken : 375 (2 YA, 2 RA)
+Damage Recvd: 2548   Health Taken: 110
+
+Accuracy info for: AdrenalineRush
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :    0.0    2/0        0      0
+G.Launcher  :   16.6    1/6        0      0      0     0
+R.Launcher  :   25.4   15/59       3      3      0     0
+LightningGun:   42.9  155/361      4      2      0     0
+Railgun     :   76.4   13/17       3      2      0     0
+
+Damage Given: 3948   Armor Taken : 180 (1 YA, 1 RA)
+Damage Recvd: 2966   Health Taken: 365 (3 MH)
+
+Accuracy info for: asv
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/11       0      0      0     0
+R.Launcher  :   26.9   14/52       1      2      0     0
+LightningGun:   32.2  114/354      5      6      0     0
+Railgun     :   44.4   12/27       3      2      0     0
+
+Damage Given: 3075   Armor Taken : 325 (1 YA, 2 RA)
+Damage Recvd: 3743   Health Taken: 355 (2 MH)
+
+Accuracy info for: insolence
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   62.5   30/48       5      4      0     0
+LightningGun:   44.7   60/134      1      5      0     0
+Railgun     :   26.6    4/15       0      3      0     0
+
+Damage Given: 2892   Armor Taken : 405 (4 RA)
+Damage Recvd: 3864   Health Taken: 240 (2 MH)
+
+Accuracy info for: CTPAHA*COBETOB
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   45.7   16/35       2      4      0     0
+LightningGun:   31.8  109/342      1      6      0     0
+Railgun     :   50.0    3/6        1      2      0     0
+Plasmagun   :   23.7   24/101      2      0      0     0
+
+Damage Given: 2697   Armor Taken : 135 (2 YA)
+Damage Recvd: 3314   Health Taken: 140 (1 MH)
+
+Map: q3gwdm2
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  tc belaruskij    15   3   6   0  0   8  75  4056  2548    0     18
+RED  ///Mus1n*         9   2   8   0  0   5  57  2917  3150    0     11
+RED  AdrenalineRush   10   0   7   0  0   7  58  3948  2966    0     10
+-----------------------------------------------------------------------
+RED  Totals           34   5  21   0  0  20  32 10921  8664    0     10
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE asv               9   1  10   1  0   2  47  3075  3743    0      9
+BLUE insolence         6   1  12   0  0   1  36  2892  3864    0      7
+BLUE CTPAHA*COBETOB    6   0  12   1  0   1  29  2697  3314    0      5
+-----------------------------------------------------------------------
+BLUE Totals           21   2  34   2  0   4   5  8664 10921    0      2
+
+
+
+
+Current time: 21:05:12 (14 Nov 2023)
+
+Dumped console text to stats/2023.11.14/210512.txt.

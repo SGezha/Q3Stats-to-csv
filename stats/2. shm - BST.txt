@@ -1,0 +1,97 @@
+
+
+Accuracy info for: [bst]unk
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/2        0      0      0     0
+R.Launcher  :   20.8   28/134      2      2      0     0
+LightningGun:   25.3   55/217      2      4      0     0
+Railgun     :   48.2   14/29       3      6      0     0
+
+Damage Given: 3317   Armor Taken : 50 (1 YA)
+Damage Recvd: 3699   Health Taken: 255
+
+Accuracy info for: [bst]Abibas
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   12.5    6/48       0      2      0     0
+LightningGun:   31.1  201/645      7      7      0     0
+Railgun     :   55.5   10/18       3      2      0     0
+
+Damage Given: 2943   Armor Taken : 250 (1 YA, 2 RA)
+Damage Recvd: 3292   Health Taken: 75
+
+Accuracy info for: [bst]KRISA
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :                      0      1      0     0
+R.Launcher  :   20.0    9/45       1      2      0     0
+LightningGun:   30.9  176/569      2      5      0     0
+Railgun     :   36.0    9/25       1      5      0     0
+
+Damage Given: 2750   Armor Taken : 400 (2 YA, 3 RA)
+Damage Recvd: 4201   Health Taken: 70
+
+Accuracy info for: shmizzy
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   20.3   11/54       1      1      0     0
+LightningGun:   20.0  127/633      5      2      0     0
+Railgun     :   44.7   17/38       5      1      0     0
+
+Damage Given: 3381   Armor Taken : 650 (9 YA, 2 RA)
+Damage Recvd: 2686   Health Taken: 135
+
+Accuracy info for: shmodin
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   25.0    1/4        1      0      0     0
+R.Launcher  :   34.6   18/52       2      0      0     0
+LightningGun:   32.4  106/327      6      3      0     0
+Railgun     :   52.3   22/42       3      5      0     0
+
+Damage Given: 4309   Armor Taken : 250 (3 YA, 1 RA)
+Damage Recvd: 3275   Health Taken: 185
+
+Accuracy info for: shmorie
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/5        0      0      0     0
+R.Launcher  :   27.3   26/95       3      2      0     0
+LightningGun:   38.0   95/250      5      6      0     0
+Railgun     :   57.1   12/21       5      1      0     0
+
+Damage Given: 3502   Armor Taken : 300 (2 YA, 2 RA)
+Damage Recvd: 3049   Health Taken: 50
+
+Map: oxodm90
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  shmorie          13   1   9   0  0   5  60  3502  3049    0     14
+RED  shmizzy          11   2   4   0  0  10  76  3381  2686    0     13
+RED  shmodin          12   0   8   0  0   6  60  4309  3275    0     12
+-----------------------------------------------------------------------
+RED  Totals           36   3  21   0  0  21  32 11192  9010    0     10
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE [bst]Abibas      10   1  11   0  0   2  50  2943  3292    0     11
+BLUE [bst]unk          7   1  12   0  0   2  40  3317  3699    0      8
+BLUE [bst]KRISA        4   1  13   0  0   2  27  2750  4201    0      5
+-----------------------------------------------------------------------
+BLUE Totals           21   3  36   0  0   6   7  9010 11192    0      3
+
+
+
+
+Current time: 21:12:06 (06 Nov 2023)
+
+Dumped console text to stats/2023.11.06/211206.txt.

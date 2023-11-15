@@ -1,0 +1,100 @@
+
+
+Accuracy info for: ixxaaa
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/5        0      0      0     0
+R.Launcher  :   20.9   18/86       1      0      0     0
+LightningGun:   26.8  111/414      1      7      0     0
+Railgun     :   70.5   12/17       4      6      0     0
+
+Damage Given: 2991   Armor Taken : 65 (1 YA)
+Damage Recvd: 3964   Health Taken: 225 (2 MH)
+
+Accuracy info for: shmizzy
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    3.3    1/30       0      0      0     0
+R.Launcher  :   19.1   13/68       1      1      0     0
+LightningGun:   28.9  214/740      5      3      0     0
+Railgun     :   42.2   19/45       6      4      0     0
+
+Damage Given: 3995   Armor Taken : 745 (4 YA, 5 RA)
+Damage Recvd: 4466   Health Taken: 950 (5 MH)
+
+Accuracy info for: shmodin
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   11.1    1/9        1      0      0     0
+R.Launcher  :   18.3   16/87       0      0      0     0
+LightningGun:   37.6  164/436      5      8      0     0
+Railgun     :   55.1   16/29       4      1      0     0
+
+Damage Given: 4057   Armor Taken : 265 (2 YA, 1 RA)
+Damage Recvd: 3467   Health Taken: 250 (1 MH)
+
+Accuracy info for: [FLY]Asuna
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   17.3    4/23       0      1      0     0
+R.Launcher  :   18.4   22/119      1      4      0     0
+LightningGun:   36.5  161/440      3      2      0     0
+Railgun     :   56.2    9/16       1      4      0     0
+
+Damage Given: 3624   Armor Taken : 380 (2 YA, 2 RA)
+Damage Recvd: 3882   Health Taken: 350 (1 MH)
+
+Accuracy info for: shmorie
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/4        0      0      0     0
+R.Launcher  :   31.3   36/115      5      2      0     0
+LightningGun:   44.8   87/194      2      2      0     0
+Railgun     :   53.8   14/26       6      4      0     0
+
+Damage Given: 4127   Armor Taken : 260 (3 YA, 1 RA)
+Damage Recvd: 3707   Health Taken: 225 (1 MH)
+
+Accuracy info for: ixsy
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :   63.6    7/11       0      0      0     0
+G.Launcher  :   20.0    1/5        0      0      0     0
+R.Launcher  :   26.9   17/63       1      2      0     0
+LightningGun:   46.7  333/713      9      3      0     0
+Railgun     :   45.1   14/31       4      6      0     0
+
+Damage Given: 5025   Armor Taken : 765 (5 YA, 5 RA)
+Damage Recvd: 4333   Health Taken: 325 (2 MH)
+
+Map: oxodm32
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  shmorie          13   1   8   0  0   8  63  4127  3707    0     14
+RED  shmizzy          12   2   8   0  0   7  63  3995  4466    0     14
+RED  shmodin          10   0   9   0  0   8  52  4057  3467    0     10
+-----------------------------------------------------------------------
+RED  Totals           35   3  25   0  0  23  28 12179 11640    0     10
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE ixsy             14   1  11   0  0   5  57  5025  4333    0     15
+BLUE [FLY]Asuna        5   2  11   0  0   5  38  3624  3882    0      7
+BLUE ixxaaa            6   1  13   0  0   4  35  2991  3964    0      7
+-----------------------------------------------------------------------
+BLUE Totals           25   4  35   0  0  14  12 11640 12179    0      5
+
+
+
+
+Current time: 21:20:20 (10 Nov 2023)
+
+Dumped console text to stats/2023.11.10/212020.txt.

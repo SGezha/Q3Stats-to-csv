@@ -1,0 +1,100 @@
+
+
+Accuracy info for: AdrenalineRush
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :   81.8    9/11       1      1      0     0
+R.Launcher  :   13.2    7/53       1      3      0     0
+LightningGun:   37.7  337/892      7      3      0     0
+Railgun     :   38.7   19/49       5      5      0     0
+
+Damage Given: 5022   Armor Taken : 600 (2 YA, 5 RA)
+Damage Recvd: 4557   Health Taken: 250 (2 MH)
+
+Accuracy info for: tc belaruskij
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    9.0    1/11       1      0      0     0
+G.Launcher  :    0.0    0/2        0      0      0     0
+R.Launcher  :   20.5   14/68       0      5      0     0
+LightningGun:   31.1  177/569      4      5      0     0
+Railgun     :   39.3   24/61       4      4      0     0
+
+Damage Given: 4530   Armor Taken : 450 (1 YA, 4 RA)
+Damage Recvd: 4744   Health Taken: 75
+
+Accuracy info for: ///Mus1n*
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   23.1   16/69       2      1      0     0
+LightningGun:   33.9  175/515      5      5      0     0
+Railgun     :   47.1   33/70       9      7      0     0
+
+Damage Given: 5597   Armor Taken : 550 (3 YA, 4 RA)
+Damage Recvd: 5030   Health Taken: 475 (2 MH)
+
+Accuracy info for: [bst]unk
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :                      0      2      0     0
+G.Launcher  :    0.0    0/3        0      0      0     0
+R.Launcher  :   18.7   42/224      9      0      0     0
+LightningGun:   22.7   75/329      5      6      0     0
+Railgun     :   51.0   25/49       7      5      0     0
+
+Damage Given: 5413   Armor Taken : 450 (5 YA, 2 RA)
+Damage Recvd: 5295   Health Taken: 600 (6 MH)
+
+Accuracy info for: [bst]KRISA
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :   27.2    3/11       1      0      0     0
+G.Launcher  :    0.0    0/1        0      0      0     0
+R.Launcher  :    9.5    4/42       0      2      0     0
+LightningGun:   29.0  121/416      3      4      0     0
+Railgun     :   51.7   29/56       6      7      0     0
+
+Damage Given: 4009   Armor Taken : 400 (4 YA, 2 RA)
+Damage Recvd: 5095   Health Taken: 150 (1 MH)
+
+Accuracy info for: [bst]Abibas
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :    5.6    3/53       0      1      0     0
+LightningGun:   30.8  289/937      5      6      0     0
+Railgun     :   38.0   24/63       3      6      0     0
+
+Damage Given: 4909   Armor Taken : 300 (2 YA, 2 RA)
+Damage Recvd: 4759   Health Taken: 275 (2 MH)
+
+Map: ts_ca1
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  ///Mus1n*        16   2  13   0  0   8  58  5597  5030    0     18
+RED  AdrenalineRush   14   2  12   0  0   8  57  5022  4557    0     16
+RED  tc belaruskij     9   1  14   0  0   7  41  4530  4744    0     10
+-----------------------------------------------------------------------
+RED  Totals           39   5  39   0  0  23  20 15149 14331    0     10
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE [bst]unk         21   0  13   0  0   7  61  5413  5295    0     21
+BLUE [bst]KRISA       10   2  13   0  0   7  48  4009  5095    0     12
+BLUE [bst]Abibas       8   1  13   0  0   7  40  4909  4759    0      9
+-----------------------------------------------------------------------
+BLUE Totals           39   3  39   0  0  21  18 14331 15149    0      9
+
+
+
+
+Current time: 21:47:58 (07 Nov 2023)
+
+Dumped console text to stats/2023.11.07/214758.txt.

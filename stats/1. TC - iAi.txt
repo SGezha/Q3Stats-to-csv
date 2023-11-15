@@ -1,0 +1,102 @@
+
+
+Accuracy info for: tc belaruskij
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    6.0    2/33       1      0      0     0
+R.Launcher  :    3.7    1/27       0      0      0     0
+LightningGun:   30.9  283/913      4      5      0     0
+Railgun     :   53.8    7/13       2      2      0     0
+
+Damage Given: 3124   Armor Taken : 400 (4 RA)
+Damage Recvd: 3083   Health Taken: 300 (3 MH)
+
+Accuracy info for: AdrenalineRush
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/36       0      0      0     0
+R.Launcher  :   24.3   10/41       3      0      0     0
+LightningGun:   34.2  312/911     12      4      0     0
+Railgun     :   43.7   14/32       2      1      0     0
+
+Damage Given: 4642   Armor Taken : 725 (1 GA, 1 YA, 6 RA)
+Damage Recvd: 3167   Health Taken: 380 (1 MH)
+
+Accuracy info for: ///Mus1n*
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+MachineGun  :    0.0    0/10       0      0
+Shotgun     :    1.8    1/55       0      0      0     0
+G.Launcher  :    0.0    0/7        0      1      0     0
+R.Launcher  :   10.5    6/57       1      0      0     0
+LightningGun:   36.0  321/891     10      5      0     0
+Railgun     :   31.0    9/29       0      3      0     0
+
+Damage Given: 3870   Armor Taken : 275 (3 GA, 1 YA, 1 RA)
+Damage Recvd: 3650   Health Taken: 515 (3 MH)
+
+Accuracy info for: [FLY]Asuna
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   10.0    2/20       1      1      0     0
+R.Launcher  :   12.6   10/79       0      1      0     0
+LightningGun:   37.6  243/646      6     10      0     0
+Railgun     :   41.1    7/17       2      0      0     0
+
+Damage Given: 3436   Armor Taken : 520 (2 GA, 4 YA, 2 RA)
+Damage Recvd: 3957   Health Taken: 255 (2 MH)
+
+Accuracy info for: ixsy
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/2        0      0      0     0
+R.Launcher  :   28.5   14/49       0      2      0     0
+LightningGun:   46.2  227/491      7      6      0     0
+Railgun     :   50.0   14/28       2      2      0     0
+
+Damage Given: 3972   Armor Taken : 650 (6 GA, 3 YA, 3 RA)
+Damage Recvd: 4114   Health Taken: 440 (3 MH)
+
+Accuracy info for: ixxaaa
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+MachineGun  :    0.0    0/6        0      0
+G.Launcher  :    0.0    0/6        0      0      0     0
+R.Launcher  :   19.6   11/56       0      1      0     0
+LightningGun:   26.6   62/233      1     10      0     0
+Railgun     :   37.1   13/35       2      2      0     0
+
+Damage Given: 2492   Armor Taken : 225 (1 GA, 2 YA, 1 RA)
+Damage Recvd: 3565   Health Taken: 125
+
+Map: oxodm100
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  [FLY]Asuna        9   1  12   0  0   3  45  3436  3957    0     10
+RED  ixsy              9   0  10   0  0   4  47  3972  4114    0      9
+RED  ixxaaa            3   1  13   0  0   2  23  2492  3565    0      4
+-----------------------------------------------------------------------
+RED  Totals           21   2  35   0  0   9  10  9900 11636    0      4
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE AdrenalineRush   17   1   5   0  0   9  78  4642  3167    0     18
+BLUE ///Mus1n*        11   0   9   0  0   7  55  3870  3650    0     11
+BLUE tc belaruskij     7   1   7   0  0   7  53  3124  3083    0      8
+-----------------------------------------------------------------------
+BLUE Totals           35   2  21   0  0  23  32 11636  9900    0     10
+
+
+
+
+Current time: 21:04:54 (13 Nov 2023)
+
+Dumped console text to stats/2023.11.13/210454.txt.

@@ -1,0 +1,110 @@
+
+AdrenalineRush: gg
+
+Accuracy info for: ///Mus1n*
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :    0.0    2/0        0      0
+Shotgun     :    0.0    0/11       0      0      0     0
+G.Launcher  :    0.0    0/33       0      0      0     0
+R.Launcher  :   15.0   15/100      2      4      0     0
+LightningGun:   30.1  154/511      3      1      0     0
+Railgun     :   50.0   10/20       2      1      0     0
+Plasmagun   :    3.1    4/126      1      0      0     0
+
+Damage Given: 3325   Armor Taken : 1055 (11 YA, 5 RA)
+Damage Recvd: 3095   Health Taken: 650 (4 MH)
+
+Accuracy info for: tc belaruskij
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    0.0    0/11       0      0      0     0
+G.Launcher  :    0.0    0/9        0      0      0     0
+R.Launcher  :   16.9   18/106      3      5      0     0
+LightningGun:   41.5  260/626      7      3      0     0
+Railgun     :   66.6   10/15       2      2      0     0
+
+Damage Given: 4175   Armor Taken : 815 (2 YA, 5 RA)
+Damage Recvd: 3995   Health Taken: 710 (3 MH)
+
+Accuracy info for: AdrenalineRush
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :    0.0    1/0        1      0
+Shotgun     :   90.9   10/11       1      0      0     0
+G.Launcher  :    0.0    0/6        0      0      0     0
+R.Launcher  :   14.7    9/61       0      1      0     0
+LightningGun:   27.2  155/569      7      4      0     0
+Railgun     :   50.0   17/34       6      0      0     0
+
+Damage Given: 3465   Armor Taken : 605 (6 YA, 2 RA)
+Damage Recvd: 2372   Health Taken: 585 (4 MH)
+
+Accuracy info for: insolence
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   13.6    3/22       0      0      0     0
+R.Launcher  :   39.5   19/48       4      2      0     0
+LightningGun:   39.6  197/497      3      6      0     0
+Railgun     :   18.7    3/16       1      3      0     0
+
+Damage Given: 3319   Armor Taken : 355 (4 YA, 1 RA)
+Damage Recvd: 3332   Health Taken: 320 (1 MH)
+
+Accuracy info for: asv
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :                      0      1
+Shotgun     :                      0      1      0     0
+G.Launcher  :    0.0    0/22       0      0      0     0
+R.Launcher  :   25.0   26/104      3      1      0     0
+LightningGun:   19.1  124/648      3      5      0     0
+Railgun     :   23.5    8/34       1      4      0     0
+Plasmagun   :                      0      1      0     0
+
+Damage Given: 3398   Armor Taken : 420 (3 YA, 2 RA)
+Damage Recvd: 4349   Health Taken: 770 (2 MH)
+
+Accuracy info for: CTPAHA*COBETOB
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   40.0    2/5        0      0      0     0
+R.Launcher  :   26.6   12/45       3      2      0     0
+LightningGun:   40.1  126/314      2      6      0     0
+Railgun     :   40.0    8/20       1      3      0     0
+Plasmagun   :    1.6    1/61       0      0      0     0
+
+Damage Given: 2745   Armor Taken : 450 (1 YA, 4 RA)
+Damage Recvd: 3284   Health Taken: 175
+
+Map: 7++
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  AdrenalineRush   15   3   5   0  0   9  78  3465  2372    0     18
+RED  ///Mus1n*         8   4   6   0  0   7  66  3325  3095    0     12
+RED  tc belaruskij    12   0  10   0  0   6  54  4175  3995    0     12
+-----------------------------------------------------------------------
+RED  Totals           35   7  21   0  0  22  32 10965  9462    0     10
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE insolence         8   0  11   0  0   1  42  3319  3332    0      8
+BLUE CTPAHA*COBETOB    6   2  11   0  0   1  42  2745  3284    0      8
+BLUE asv               7   0  13   0  0   1  35  3398  4349    0      7
+-----------------------------------------------------------------------
+BLUE Totals           21   2  35   0  0   3   5  9462 10965    0      2
+
+
+
+
+Current time: 21:18:34 (14 Nov 2023)
+
+Dumped console text to stats/2023.11.14/211834.txt.

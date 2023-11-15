@@ -1,0 +1,127 @@
+
+
+Accuracy info for: [bst]Abibas
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/1        0      0      0     0
+R.Launcher  :    18.8   13/69       1      3      0     0
+LightningGun:    34.2  279/814      9      1      0     0
+Railgun     :    52.4   21/40       5      1      0     0
+
+Damage Given: 4443    Armor Taken : 415    (1 YA, 3 RA)
+Damage Recvd: 2587    Health Taken: 390    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: *BMB* gepron1x
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/11       0      0      0     0
+G.Launcher  :     0.0    0/3        0      0      0     0
+R.Launcher  :    17.0   20/117      1      2      0     0
+LightningGun:    33.3  135/405      1      5      0     0
+Railgun     :    33.3    5/15       0      4      0     0
+Plasmagun   :     0.0    0/15       0      0      0     0
+
+Damage Given: 2628    Armor Taken : 310    (3 YA, 1 RA)
+Damage Recvd: 3617    Health Taken: 410    (3 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: [bst]KRISA
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+R.Launcher  :    21.6   13/60       2      3      0     0
+LightningGun:    40.9  203/496      6      1      0     0
+Railgun     :    23.3    7/30       2      4      0     0
+
+Damage Given: 2704    Armor Taken : 300    (4 YA, 0 RA)
+Damage Recvd: 3364    Health Taken: 225    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: [bst]unk
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/3        0      0      0     0
+R.Launcher  :    13.1   21/160      2      0      0     0
+LightningGun:    32.9  182/553      2      5      0     0
+Railgun     :    46.6   14/30       4      2      0     0
+
+Damage Given: 3773    Armor Taken : 495    (2 YA, 3 RA)
+Damage Recvd: 3233    Health Taken: 585    (4 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: *BMB*CastAspell
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/11       0      0      0     0
+G.Launcher  :     4.3    1/23       0      0      0     0
+R.Launcher  :    13.7   15/109      3      2      0     0
+LightningGun:    40.5  211/520      4      7      0     0
+Railgun     :    66.6   14/21       4      2      0     0
+Plasmagun   :    12.5    1/8        0      0      0     0
+
+Damage Given: 3731    Armor Taken : 300    (1 YA, 2 RA)
+Damage Recvd: 3659    Health Taken: 250    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: *BMB* qurdea
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :    18.1    4/22       0      0      0     0
+R.Launcher  :    34.3   11/32       2      1      0     0
+LightningGun:    28.7   87/303      2      5      0     0
+Railgun     :    32.7   19/58       3      5      0     0
+
+Damage Given: 2982    Armor Taken : 300    (1 YA, 2 RA)
+Damage Recvd: 3490    Health Taken: 170    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: cybdmpro2
+Time Remaining: 12:57
+
+Player          Kll Dth Sui Time FPM Eff     DG     DR  Score
+-------------------------------------------------------------
+[bst]Abibas      15   5   0    7   2  75   4443   2587     17
+*BMB*CastAspell  11  11   0    7   1  50   3731   3659     11
+[bst]KRISA       10   8   0    7   1  55   2704   3364     10
+[bst]unk          8   7   0    7   1  53   3773   3233      9
+*BMB* qurdea      7  11   0    7   1  38   2982   3490      7
+*BMB* gepron1x    2  11   0    7   0  15   2628   3617      2
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+SG   18.1    4/22       0      0 *BMB* qurdea
+GL    4.3    1/23       0      0 *BMB*CastAspell
+RL   34.3   11/32       2      1 *BMB* qurdea
+LG   40.9  203/496      6      1 [bst]KRISA
+RG   66.6   14/21       4      2 *BMB*CastAspell
+PG   12.5    1/8        0      0 *BMB*CastAspell
+Best 38.2  224/586               [bst]KRISA
+
+Awards List:
+------------------------------------------------------
+Most Thaws                  2    [bst]Abibas
+Most Assists                2    [bst]Abibas
+Most Impressive             6    *BMB*CastAspell
+Most Excellent              1    [bst]unk
+Most Kills                 15    [bst]Abibas
+Best Efficiency          75.0    [bst]Abibas
+Best Kill Streak            5    [bst]Abibas
+Best Skill               1022    [bst]Abibas
+
+
+Current time: 14:36:05 (06 Nov 2023)
+
+Dumped console text to stats/2023.11.06/143602.txt.

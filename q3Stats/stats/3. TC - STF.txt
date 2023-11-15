@@ -1,0 +1,125 @@
+
+
+Accuracy info for: tc belaruskij
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/16       0      0      0     0
+R.Launcher  :    30.0   12/40       2      1      0     0
+LightningGun:    40.0  385/961      9      5      0     0
+Railgun     :    14.2    1/7        1      2      0     0
+
+Damage Given: 3507    Armor Taken : 525    (4 YA, 3 RA)
+Damage Recvd: 3028    Health Taken: 100    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {STF}-Mill
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+R.Launcher  :     7.5    3/40       0      3      0     0
+LightningGun:    39.5  185/468      3     10      0     0
+Railgun     :    61.1   11/18       0      1      0     0
+
+Damage Given: 2382    Armor Taken : 170    (1 YA, 1 RA)
+Damage Recvd: 3919    Health Taken: 105    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: AdrenalineRush
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/11       0      0      0     0
+G.Launcher  :     0.0    0/10       0      0      0     0
+R.Launcher  :    28.5   14/49       1      4      0     0
+LightningGun:    43.5  319/733      8      5      0     0
+Railgun     :    36.8    7/19       1      1      0     0
+
+Damage Given: 3765    Armor Taken : 200    (4 YA, 0 RA)
+Damage Recvd: 3205    Health Taken: 300    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {STF}-Rimuru
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/12       0      0      0     0
+R.Launcher  :    19.1   13/68       3      2      0     0
+LightningGun:    39.8  294/737      7      6      0     0
+Railgun     :    36.6   11/30       4      2      0     0
+Plasmagun   :     0.0    0/0        0      1      0     0
+
+Damage Given: 3743    Armor Taken : 280    (5 YA, 0 RA)
+Damage Recvd: 3542    Health Taken: 415    (3 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: ///Mus1n*
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/1        0      0      0     0
+R.Launcher  :    29.1   14/48       3      2      0     0
+LightningGun:    36.0  358/994      8      4      0     0
+Railgun     :    53.3    8/15       2      1      0     0
+Plasmagun   :    22.2    8/36       1      0      0     0
+
+Damage Given: 4144    Armor Taken : 250    (3 YA, 1 RA)
+Damage Recvd: 3159    Health Taken: 400    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {STF}-Vyazemsk1y^5-7
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/3        0      0      0     0
+R.Launcher  :    43.6   41/94       4      1      0     0
+LightningGun:    37.0  191/516      4      9      0     0
+Railgun     :    14.2    1/7        0      1      0     0
+
+Damage Given: 3347    Armor Taken : 600    (2 YA, 5 RA)
+Damage Recvd: 3766    Health Taken: 125    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: oxodm54
+Time Remaining: 14:11
+
+Player          Kll Dth Sui Time FPM Eff     DG     DR  Score
+-------------------------------------------------------------
+{STF}-Rimuru     14  11   0    5   2  56   3743   3542     14
+///Mus1n*        14   7   0    5   2  66   4144   3159     14
+tc belaruskij    12   8   0    5   2  60   3507   3028     13
+AdrenalineRush   10  10   0    5   2  50   3765   3205     11
+{STF}-Vyazemsk1   8  11   0    5   1  42   3347   3766      9
+{STF}-Mill        3  14   0    5   0  17   2382   3919      3
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+RL   43.6   41/94       4      1 {STF}-Vyazemsk1y-7
+LG   43.5  319/733      8      5 AdrenalineRush
+RG   61.1   11/18       0      1 {STF}-Mill
+PG   22.2    8/36       1      0 ///Mus1n*
+Best 41.4  341/822               AdrenalineRush
+
+Awards List:
+------------------------------------------------------
+Most Thaws                  1    tc belaruskij
+Most Defense                2    {STF}-Rimuru
+Most Assists                1    tc belaruskij
+Most Impressive             4    {STF}-Rimuru
+Most Excellent              2    {STF}-Rimuru
+Most Kills                 14    {STF}-Rimuru
+Best Efficiency          66.6    ///Mus1n*
+Best Kill Streak            5    tc belaruskij
+Best Skill               1015    ///Mus1n*
+
+
+Current time: 22:36:24 (07 Nov 2023)
+
+Dumped console text to stats/2023.11.07/223623.txt.

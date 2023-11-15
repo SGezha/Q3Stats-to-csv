@@ -1,0 +1,127 @@
+
+
+Accuracy info for: {STF}-Rimuru
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/16       1      0      0     0
+R.Launcher  :    18.0   11/61       1      1      0     0
+LightningGun:    40.1  179/446      4      6      0     0
+Railgun     :    37.2   16/43       2      5      0     0
+
+Damage Given: 3417    Armor Taken : 205    (2 YA, 1 RA)
+Damage Recvd: 3717    Health Taken: 325    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {STF}-Mill
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/6        0      0      0     0
+R.Launcher  :     8.0    5/62       1      3      0     0
+LightningGun:    32.2  228/706      4      2      0     0
+Railgun     :    30.0    3/10       0      6      0     0
+
+Damage Given: 2118    Armor Taken : 150    (0 YA, 1 RA)
+Damage Recvd: 3424    Health Taken: 160    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: shmodin
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Machinegun  :    42.3   11/26       0      0      0     0
+G.Launcher  :     0.0    0/8        0      0      0     0
+R.Launcher  :    20.4   19/93       3      2      0     0
+LightningGun:    39.9   93/233      4      3      0     0
+Railgun     :    50.0   27/54       9      1      0     0
+
+Damage Given: 4316    Armor Taken : 540    (6 YA, 2 RA)
+Damage Recvd: 3040    Health Taken: 775    (6 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: shmorie
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/24       0      0      0     0
+R.Launcher  :    28.9   20/69       1      2      0     0
+LightningGun:    47.3  176/372      3      3      0     0
+Railgun     :    60.0   15/25       3      1      0     0
+
+Damage Given: 3424    Armor Taken : 100    (1 YA, 0 RA)
+Damage Recvd: 2622    Health Taken: 125    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: shmizzy
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     9.0    1/11       1      0      0     0
+G.Launcher  :     0.0    0/19       0      1      0     0
+R.Launcher  :    24.0   18/75       3      1      0     0
+LightningGun:    27.7  220/794      6      3      0     0
+Railgun     :    50.0   15/30       2      0      0     0
+
+Damage Given: 3871    Armor Taken : 1175   (11 YA, 5 RA)
+Damage Recvd: 3763    Health Taken: 445    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {STF}-Vyazemsk1y^5-7
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/0        0      1      0     0
+G.Launcher  :     0.0    0/7        0      0      0     0
+R.Launcher  :    30.5   55/180      3      3      0     0
+LightningGun:    30.6   65/212      1      5      0     0
+Railgun     :    12.5    1/8        0      3      0     0
+
+Damage Given: 3940    Armor Taken : 950    (5 YA, 7 RA)
+Damage Recvd: 4445    Health Taken: 480    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: oxodm54
+Time Remaining: 11:49
+
+Player          Kll Dth Sui Time FPM Eff     DG     DR  Score
+-------------------------------------------------------------
+shmodin          16   6   0    8   2  72   4316   3040     16
+shmizzy          12   5   0    8   1  70   3871   3763     13
+shmorie           7   6   0    8   0  53   3424   2622      9
+{STF}-Rimuru      8  12   0    8   1  40   3417   3717      8
+{STF}-Mill        5  11   0    8   0  31   2118   3424      5
+{STF}-Vyazemsk1   4  12   0    8   0  25   3940   4445      4
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+MG   42.3   11/26       0      0 shmodin
+SG    9.0    1/11       1      0 shmizzy
+RL   30.5   55/180      3      3 {STF}-Vyazemsk1y-7
+LG   47.3  176/372      3      3 shmorie
+RG   60.0   15/25       3      1 shmorie
+Best 43.0  211/490               shmorie
+
+Awards List:
+------------------------------------------------------
+Most Thaws                  2    shmorie
+Most Defense                1    shmorie
+Most Assists                2    shmorie
+Most Impressive            10    shmodin
+Most Excellent              2    shmodin
+Most Kills                 16    shmodin
+Best Efficiency          72.7    shmodin
+Best Kill Streak            4    shmodin
+Best Skill               1023    shmodin
+
+
+Current time: 21:40:07 (12 Nov 2023)
+
+Dumped console text to stats/2023.11.12/214007.txt.

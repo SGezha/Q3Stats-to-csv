@@ -10,106 +10,110 @@ statsDir.forEach((path) => {
 
   if(!playersStats) return console.log(`Error parse file - stats/${path}`)
 
-  //   add info to bd
-  playersStats.forEach((pl) => {
-    const profile = playersBase.find((a) => a.nick == pl.nick)
-    if (profile) {
-      profile.nick = pl.nick
-      profile.kills += pl.kills
-      profile.deaths += pl.deaths
-      profile.thw += pl.thw
-      profile.score += pl.score
-      profile.damageGiven += pl.damageGiven
-      profile.damageRecvd += pl.damageRecvd
-      for (let key in profile.weaponStats) {
-        if (!pl.weaponStats[key] || key == 'Gauntlet') continue
-        profile.weaponStats[key].hits += pl.weaponStats[key].hits
-        profile.weaponStats[key].miss += pl.weaponStats[key].miss
-        profile.weaponStats[key].kills += pl.weaponStats[key].kills
-        profile.weaponStats[key].deaths += pl.weaponStats[key].deaths
-        profile.weaponStats[key].acc = +(
-          (+profile.weaponStats[key].hits / +profile.weaponStats[key].miss) *
-          100
-        ).toFixed(1)
-        if (
-          profile.weaponStats[key].hits == 0 &&
-          profile.weaponStats[key].miss == 0
-        ) {
-          profile.weaponStats[key].acc = 0
+  try {
+    //   add info to bd
+    playersStats.forEach((pl) => {
+      const profile = playersBase.find((a) => a.nick == pl.nick)
+      if (profile) {
+        profile.nick = pl.nick
+        profile.kills += pl.kills
+        profile.deaths += pl.deaths
+        profile.thw += pl.thw
+        profile.score += pl.score
+        profile.damageGiven += pl.damageGiven
+        profile.damageRecvd += pl.damageRecvd
+        for (let key in profile.weaponStats) {
+          if (!pl.weaponStats[key] || key == 'Gauntlet') continue
+          profile.weaponStats[key].hits += pl.weaponStats[key].hits
+          profile.weaponStats[key].miss += pl.weaponStats[key].miss
+          profile.weaponStats[key].kills += pl.weaponStats[key].kills
+          profile.weaponStats[key].deaths += pl.weaponStats[key].deaths
+          profile.weaponStats[key].acc = +(
+            (+profile.weaponStats[key].hits / +profile.weaponStats[key].miss) *
+            100
+          ).toFixed(1)
+          if (
+            profile.weaponStats[key].hits == 0 &&
+            profile.weaponStats[key].miss == 0
+          ) {
+            profile.weaponStats[key].acc = 0
+          }
         }
-      }
-    } else {
-      let weaponStats = {
-        MachineGun: {
-          hits: 0,
-          miss: 0,
-          kills: 0,
-          deaths: 0,
-          acc: 0
-        },
-        Shotgun: {
-          hits: 0,
-          miss: 0,
-          kills: 0,
-          deaths: 0,
-          acc: 0
-        },
-        'G.Launcher': {
-          hits: 0,
-          miss: 0,
-          kills: 0,
-          deaths: 0,
-          acc: 0
-        },
-        'R.Launcher': {
-          hits: 0,
-          miss: 0,
-          kills: 0,
-          deaths: 0,
-          acc: 0
-        },
-        'LightningGun:': {
-          hits: 0,
-          miss: 0,
-          kills: 0,
-          deaths: 0,
-          acc: 0
-        },
-        Railgun: {
-          hits: 0,
-          miss: 0,
-          kills: 0,
-          deaths: 0,
-          acc: 0
-        },
-        Plasmagun: {
-          hits: 0,
-          miss: 0,
-          kills: 0,
-          deaths: 0,
-          acc: 0
+      } else {
+        let weaponStats = {
+          MachineGun: {
+            hits: 0,
+            miss: 0,
+            kills: 0,
+            deaths: 0,
+            acc: 0
+          },
+          Shotgun: {
+            hits: 0,
+            miss: 0,
+            kills: 0,
+            deaths: 0,
+            acc: 0
+          },
+          'G.Launcher': {
+            hits: 0,
+            miss: 0,
+            kills: 0,
+            deaths: 0,
+            acc: 0
+          },
+          'R.Launcher': {
+            hits: 0,
+            miss: 0,
+            kills: 0,
+            deaths: 0,
+            acc: 0
+          },
+          'LightningGun:': {
+            hits: 0,
+            miss: 0,
+            kills: 0,
+            deaths: 0,
+            acc: 0
+          },
+          Railgun: {
+            hits: 0,
+            miss: 0,
+            kills: 0,
+            deaths: 0,
+            acc: 0
+          },
+          Plasmagun: {
+            hits: 0,
+            miss: 0,
+            kills: 0,
+            deaths: 0,
+            acc: 0
+          }
         }
-      }
-      for (let key in pl.weaponStats) {
-        if (!pl.weaponStats[key] || key == 'Gauntlet') continue
-        weaponStats[key].hits += pl.weaponStats[key].hits
-        weaponStats[key].miss += pl.weaponStats[key].miss
-        weaponStats[key].kills += pl.weaponStats[key].kills
-        weaponStats[key].deaths += pl.weaponStats[key].deaths
-        weaponStats[key].acc = +(
-          (+pl.weaponStats[key].hits / +pl.weaponStats[key].miss) *
-          100
-        ).toFixed(2)
-        if (pl.weaponStats[key].hits == 0 && pl.weaponStats[key].miss == 0) {
-          weaponStats[key].acc = 0
+        for (let key in pl.weaponStats) {
+          if (!pl.weaponStats[key] || key == 'Gauntlet') continue
+          weaponStats[key].hits += pl.weaponStats[key].hits
+          weaponStats[key].miss += pl.weaponStats[key].miss
+          weaponStats[key].kills += pl.weaponStats[key].kills
+          weaponStats[key].deaths += pl.weaponStats[key].deaths
+          weaponStats[key].acc = +(
+            (+pl.weaponStats[key].hits / +pl.weaponStats[key].miss) *
+            100
+          ).toFixed(2)
+          if (pl.weaponStats[key].hits == 0 && pl.weaponStats[key].miss == 0) {
+            weaponStats[key].acc = 0
+          }
         }
+        playersBase.push({
+          ...pl,
+          weaponStats
+        })
       }
-      playersBase.push({
-        ...pl,
-        weaponStats
-      })
-    }
-  })
+    })
+  } catch (er) {
+    console.log(er)
+  }
 })
 
 async function start() {

@@ -1,0 +1,132 @@
+
+
+Accuracy info for: ^>!<HEERO-2B
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Machinegun  :     0.0    0/2        0      0      0     0
+G.Launcher  :     0.0    0/4        0      0      0     0
+R.Launcher  :    22.5   14/62       0      1      0     0
+LightningGun:    30.0  180/600      6      3      0     0
+Railgun     :    45.4   25/55       5      4      0     0
+Plasmagun   :     0.0    0/7        0      0      0     0
+
+Damage Given: 4069    Armor Taken : 370    (6 YA, 0 RA)
+Damage Recvd: 3157    Health Taken: 0      (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: *BMB* gepron1x
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     9.0    1/11       0      0      0     0
+G.Launcher  :     0.0    0/7        0      0      0     0
+R.Launcher  :     4.4    7/156      1      0      0     0
+LightningGun:    36.6  372/1014     9      8      0     0
+Railgun     :    41.9   13/31       2      6      0     0
+
+Damage Given: 4012    Armor Taken : 285    (5 YA, 0 RA)
+Damage Recvd: 4204    Health Taken: 100    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: ^<!>Shantu
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :    13.3    2/15       0      0      0     0
+R.Launcher  :    15.6    5/32       0      1      0     0
+LightningGun:    28.0  114/406      5      8      0     0
+Railgun     :    46.7   29/62       9      5      0     0
+
+Damage Given: 3888    Armor Taken : 485    (9 YA, 0 RA)
+Damage Recvd: 4223    Health Taken: 25     (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: ^>!<KF
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Machinegun  :    14.8    8/54       1      0      0     0
+Shotgun     :     0.0    0/44       0      0      0     0
+G.Launcher  :     0.0    0/28       0      0      0     0
+R.Launcher  :     9.8   11/112      1      1      0     0
+LightningGun:    44.3  378/852     11      5      0     0
+Railgun     :    57.1   20/35       2      2      0     0
+
+Damage Given: 5145    Armor Taken : 360    (7 YA, 0 RA)
+Damage Recvd: 3803    Health Taken: 75     (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: *BMB*CastAspell
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Machinegun  :     0.0    0/0        0      1      0     0
+G.Launcher  :     1.7    1/58       0      0      0     0
+R.Launcher  :    11.4   23/201      1      1      0     0
+LightningGun:    38.4  169/439      6      7      0     0
+Railgun     :    58.5   24/41       5      4      0     0
+
+Damage Given: 4520    Armor Taken : 830    (16 YA, 0 RA)
+Damage Recvd: 4738    Health Taken: 375    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: *BMB* qurdea
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/11       0      0      0     0
+G.Launcher  :     0.0    0/8        0      0      0     0
+R.Launcher  :    14.2    7/49       1      0      0     0
+LightningGun:    31.0   63/203      1      7      0     0
+Railgun     :    41.3   24/58       4      6      0     0
+
+Damage Given: 2781    Armor Taken : 225    (4 YA, 0 RA)
+Damage Recvd: 4160    Health Taken: 75     (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: firstrebirth
+Time Remaining: 8:09
+
+Player          Kll Dth Sui Time FPM Eff     DG     DR  Score
+-------------------------------------------------------------
+!<KF           15   8   0   11   1  65   5145   3803     17
+!<HEERO-2B     11   8   0   11   1  57   4069   3157     16
+*BMB*CastAspell  12  13   0   11   1  48   4520   4738     15
+!>Shantu       14  14   0   11   1  50   3888   4223     15
+*BMB* gepron1x   12  14   0   11   1  46   4012   4204     13
+*BMB* qurdea      6  13   0   11   0  31   2781   4160     10
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+MG   14.8    8/54       1      0 !<KF
+SG    9.0    1/11       0      0 *BMB* gepron1x
+GL   13.3    2/15       0      0 !>Shantu
+RL   22.5   14/62       0      1 !<HEERO-2B
+LG   44.3  378/852     11      5 !<KF
+RG   58.5   24/41       5      4 *BMB*CastAspell
+Best 37.0  417/1125              !<KF
+
+Awards List:
+------------------------------------------------------
+Most Thaws                  5    !<HEERO-2B
+Most Defense                1    !>Shantu
+Most Assists                5    !<HEERO-2B
+Most Impressive             9    !<HEERO-2B
+Most Excellent              2    !<HEERO-2B
+Most Kills                 15    !<KF
+Best Efficiency          65.2    !<KF
+Best Kill Streak            4    !<KF
+Best Skill               1016    !<KF
+
+
+Current time: 22:28:13 (06 Nov 2023)
+
+Dumped console text to stats/2023.11.06/222813.txt.

@@ -66,9 +66,11 @@ module.exports = (path, data) => {
         .split('Damage Given:')[0]
         .split('\n')
       weaponStats.forEach((w, i) => {
-        if (i == 0 || w.split(' ')[0] == false) return
+        let weaponName = w.split(' ')[0]
+        if (i == 0 || weaponName == false) return
         w = w.replace(/\s+/g, ' ').trim()
-        obj.weaponStats[w.split(' ')[0]] = {
+        if(weaponName == "Machinegun") weaponName = "MachineGun"
+        obj.weaponStats[weaponName] = {
           hits:
             w.split(':')[1].split(' ').length > 6
               ? +w.split(':')[1].split(' ')[2].split('/')[0]
@@ -86,9 +88,9 @@ module.exports = (path, data) => {
               ? +w.split(':')[1].split(' ')[4].split(' ')[0]
               : 0
         }
-        obj.weaponStats[w.split(' ')[0]].acc = Math.round(
-          (obj.weaponStats[w.split(' ')[0]].hits /
-            obj.weaponStats[w.split(' ')[0]].miss) *
+        obj.weaponStats[weaponName].acc = Math.round(
+          (obj.weaponStats[weaponName].hits /
+            obj.weaponStats[weaponName].miss) *
             100
         )
       })
