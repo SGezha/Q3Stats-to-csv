@@ -93,6 +93,14 @@ module.exports = (path, data) => {
       obj.nick = '{STF}-Rimuru'
     }
 
+    if(obj.nick == '{STF}-Vyazemsk1y75-7') {
+      obj.nick = '{STF}-Vyazemsk1y^5-7'
+    }
+
+    if(obj.nick == '.unk') {
+      obj.nick = '[bst]unk'
+    }
+
     // weapons stats
     if (
       p.indexOf('No weapon info available.') == -1 &&

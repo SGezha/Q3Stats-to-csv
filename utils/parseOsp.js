@@ -89,6 +89,30 @@ module.exports = (path, data) => {
       })
     }
 
+    if(obj.nick == '^<!>Shantu') {
+      obj.nick = '^>!<Shantu'
+    }
+
+    if(obj.nick == 'Vyazemsk1y^5-7') {
+      obj.nick = '{STF}-Vyazemsk1y^5-7'
+    }
+
+    if(obj.nick == 'Asuna') {
+      obj.nick = '[FLY]Asuna'
+    }
+
+    if(obj.nick == 'Rimuru') {
+      obj.nick = '{STF}-Rimuru'
+    }
+
+    if(obj.nick == '{STF}-Vyazemsk1y75-7') {
+      obj.nick = '{STF}-Vyazemsk1y^5-7'
+    }
+
+    if(obj.nick == '.unk') {
+      obj.nick = '[bst]unk'
+    }
+
     if (data.indexOf('Accuracy info for: ') > -1) {
       obj.damageGiven = +p.split('Damage Given: ')[1].split(' ')[0]
       obj.damageRecvd = +p.split('Damage Recvd: ')[1].split(' ')[0]

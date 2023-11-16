@@ -1,0 +1,108 @@
+
+
+Accuracy info for: {STF}-Rimuru
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :    0.0    7/0        1      0
+Shotgun     :    9.0    5/55       1      0      0     0
+G.Launcher  :   14.2    1/7        0      0      0     0
+R.Launcher  :   39.3   26/66      10      1      0     0
+LightningGun:   37.5  150/399      6      0      0     0
+Railgun     :   50.0   13/26       3      1      0     0
+Plasmagun   :   24.1    7/29       0      0      0     0
+
+Damage Given: 5281   Armor Taken : 880 (3 YA, 7 RA)
+Damage Recvd: 2340   Health Taken: 460 (2 MH)
+
+Accuracy info for: Cybra
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :                      0      1
+R.Launcher  :   10.8    8/74       2      5      0     0
+LightningGun:   30.9   66/213      1      3      0     0
+Railgun     :   42.3   11/26       0      1      0     0
+
+Damage Given: 2247   Armor Taken : 345 (4 YA, 1 RA)
+Damage Recvd: 3423   Health Taken: 695 (3 MH)
+
+Accuracy info for: John Coffey
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :                      0      1      0     0
+G.Launcher  :    0.0    0/1        0      0      0     0
+R.Launcher  :   11.1    5/45       0      4      0     0
+LightningGun:   41.9   94/224      1      3      0     0
+Railgun     :   57.8   11/19       2      2      0     0
+
+Damage Given: 2257   Armor Taken : 270 (3 YA, 1 RA)
+Damage Recvd: 2776   Health Taken: 50
+
+Accuracy info for: {STF}-Mill
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/6        0      0      0     0
+R.Launcher  :    7.4    7/94       0      1      0     0
+LightningGun:   20.0   80/400      3      2      0     0
+Railgun     :   33.3    5/15       2      1      0     0
+Plasmagun   :   33.3    2/6        0      0      0     0
+
+Damage Given: 1497   Armor Taken : 250 (1 YA, 2 RA)
+Damage Recvd: 1820   Health Taken: 160
+
+Accuracy info for: {STF}-Vyazemsk1y75-7
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :    0.0    1/0        0      0
+Shotgun     :    0.0    0/44       0      0      0     0
+G.Launcher  :    0.0    0/5        0      0      0     0
+R.Launcher  :   33.3   37/111      2      2      0     0
+LightningGun:   27.7   58/209      1      2      0     0
+Railgun     :   57.1    4/7        1      1      0     0
+
+Damage Given: 3166   Armor Taken : 300 (2 YA, 2 RA)
+Damage Recvd: 2420   Health Taken: 530 (3 MH)
+
+Accuracy info for: R72.LOKOMOTIV
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/6        0      0      0     0
+R.Launcher  :   25.3   19/75       2      3      0     0
+LightningGun:   30.0  102/339      2      4      0     0
+Railgun     :   22.2    2/9        1      3      0     0
+Plasmagun   :    0.0    0/11       0      0      0     0
+
+Damage Given: 2076   Armor Taken : 540 (1 YA, 3 RA)
+Damage Recvd: 3745   Health Taken: 765 (4 MH)
+{STF}-Vyazemsk1y^5-7: =)
+
+Map: 7++
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  {STF}-Rimuru     21   1   2   0  0   9  91  5281  2340    0     22
+RED  {STF}-Mill        5   0   4   0  0   6  55  1497  1820    0      5
+RED  {STF}-Vyazemsk1   4   1   5   0  0   6  50  3166  2420    0      5
+-----------------------------------------------------------------------
+RED  Totals           30   2  11   0  0  21  47  9944  6580    0     10
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE R72.LOKOMOTIV     5   0  10   0  0   0  33  2076  3745    0      5
+BLUE John Coffey       3   0  10   0  0   0  23  2257  2776    0      3
+BLUE Cybra             3   0  10   0  0   0  23  2247  3423    0      3
+-----------------------------------------------------------------------
+BLUE Totals           11   0  30   0  0   0   0  6580  9944    0      0
+
+
+
+
+Current time: 22:00:00 (15 Nov 2023)
+
+Dumped console text to stats/2023.11.15/215959.txt.
