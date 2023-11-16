@@ -1,4 +1,18 @@
+const getIdenticalCount = (str1, str2) => {
+  let count = 0;
+  
+  for (let ch of str1) {
+    if (str2.includes(ch)) {
+      count++;
+    }
+  }
+  
+  return count;
+}
+
 module.exports = (path, data) => {
+  if(data.includes('^>')) data.replace('^>', '')
+
   let stats = data.split('Map: ')[0].split('Accuracy info for: ')
 
   let table = data.split('Player')[1].split('WP')[0]
@@ -36,23 +50,47 @@ module.exports = (path, data) => {
       deaths: 0,
       thw: 0,
       sui: 0,
-      score: 0
+      score: 0,
+      damageGiven: 0,
+      damageRecvd: 0
     }
     playersStats.split('\n').forEach((h, k) => {
-      if (h.indexOf(obj.nick) > -1) {
-        h = h.replace(obj.nick, ' ')
+      let needToTrue = h.includes(obj.nick.slice(0, 15)) 
+      if(obj.nick.includes('gepron1x')) needToTrue = h.includes(obj.nick.slice(0, 15))
+      if(obj.nick.includes('Adrenal')) needToTrue = h.includes(obj.nick.slice(0, 15))
+      if(obj.nick == "^>!<HEERO-2B"  || obj.nick == "^>!<Shantu" || obj.nick == "^>!<KF") {
+        obj.nick = obj.nick = obj.nick.slice(2)
+      }
+      if (needToTrue) {
+        h = h.replace(obj.nick.slice(0, 15), ' ')
         h = h.replace(/\s+/g, ' ').trim()
-        obj.kills = +h.split(' ')[1].split(' ')[0]
-        obj.thw = +h.split(' ')[2].split(' ')[0]
-        obj.deaths = +h.split(' ')[3].split(' ')[0]
-        obj.sui = +h.split(' ')[4].split(' ')[0]
+        obj.kills = +h.split(' ')[0].split(' ')[0]
+        obj.deaths = +h.split(' ')[1].split(' ')[0]
+        obj.sui = +h.split(' ')[2].split(' ')[0]
+        obj.damageGiven = +h.split(' ')[6].split(' ')[0]
+        obj.damageRecvd = +h.split(' ')[7].split(' ')[0]
         obj.score = +h.split(' ')[8].split(' ')[0]
       }
     })
 
-    if (data.indexOf('Accuracy info for: ') > -1) {
-      obj.damageGiven = +p.split('Damage Given: ')[1].split(' ')[0]
-      obj.damageRecvd = +p.split('Damage Recvd: ')[1].split(' ')[0]
+    if(obj.nick == "!<HEERO-2B"  || obj.nick == "!<Shantu" || obj.nick == "!<KF") {
+      obj.nick = `^>${obj.nick}`
+    }
+
+    if(obj.nick == '^<!>Shantu') {
+      obj.nick = '^>!<Shantu'
+    }
+
+    if(obj.nick == 'Vyazemsk1y^5-7') {
+      obj.nick = '{STF}-Vyazemsk1y^5-7'
+    }
+
+    if(obj.nick == 'Asuna') {
+      obj.nick = '[FLY]Asuna'
+    }
+
+    if(obj.nick == 'Rimuru') {
+      obj.nick = '{STF}-Rimuru'
     }
 
     // weapons stats
@@ -62,9 +100,10 @@ module.exports = (path, data) => {
     ) {
       obj.weaponStats = {}
       let weaponStats = p
-        .split(`--------------------------------------------------------`)[1]
+        .split(`---------------------------------------------------------`)[1]
         .split('Damage Given:')[0]
         .split('\n')
+
       weaponStats.forEach((w, i) => {
         let weaponName = w.split(' ')[0]
         if (i == 0 || weaponName == false) return

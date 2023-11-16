@@ -1,0 +1,129 @@
+
+{RQF}Mistik31: gg
+
+Accuracy info for: [bst]Abibas
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/17       0      0      0     0
+R.Launcher  :    11.2   12/107      0      3      0     0
+LightningGun:    37.8  437/1156    16     11      0     0
+Railgun     :    55.7   29/52       7      0      0     0
+
+Damage Given: 6463    Armor Taken : 705    (1 YA, 6 RA)
+Damage Recvd: 5236    Health Taken: 640    (3 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {RQF}Mistik31
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/1        0      0      0     0
+R.Launcher  :     9.2    6/65       1      0      0     0
+LightningGun:    36.4  577/1585    13      9      0     0
+Railgun     :    35.0   14/40       1      5      0     0
+Plasmagun   :     0.0    0/3        0      0      0     0
+
+Damage Given: 5507    Armor Taken : 1615   (5 YA, 13 RA)
+Damage Recvd: 6030    Health Taken: 525    (3 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {RQF}Sub-Zero
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Machinegun  :     0.0    0/2        0      0      0     0
+Shotgun     :     0.0    0/33       0      0      0     0
+G.Launcher  :     0.0    0/15       0      1      0     0
+R.Launcher  :    16.9   29/171      2      0      0     0
+LightningGun:    29.5  157/532      6     10      0     0
+Railgun     :    35.1   13/37       1      8      0     0
+Plasmagun   :    36.8    7/19       0      0      0     0
+
+Damage Given: 3963    Armor Taken : 185    (1 YA, 1 RA)
+Damage Recvd: 5364    Health Taken: 235    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: [bst]KRISA
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :    27.2    3/11       1      0      0     0
+G.Launcher  :     0.0    0/3        0      0      0     0
+R.Launcher  :    12.2   12/98       0      2      0     0
+LightningGun:    36.5  248/679      5     10      0     0
+Railgun     :    53.7   29/54       5      2      0     0
+Plasmagun   :    26.0    6/23       0      0      0     0
+
+Damage Given: 5049    Armor Taken : 465    (5 YA, 2 RA)
+Damage Recvd: 4996    Health Taken: 400    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: [brn]
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/77       0      0      0     0
+G.Launcher  :     1.4    2/141      0      0      0     0
+R.Launcher  :    18.3   11/60       1      0      0     0
+LightningGun:    34.0  131/385      6      3      0     0
+Railgun     :    30.7    4/13       1      1      0     0
+
+Damage Given: 2222    Armor Taken : 440    (0 YA, 4 RA)
+Damage Recvd: 1743    Health Taken: 90     (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: Rimuru
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+
+Damage Given: 0       Armor Taken : 0      (0 YA, 0 RA)
+Damage Recvd: 0       Health Taken: 0      (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: rustgrad
+Time Remaining: 4:44
+
+Player          Kll Dth Sui Time FPM Eff     DG     DR  Score
+-------------------------------------------------------------
+[bst]Abibas      23  14   0   16   1  62   6463   5236     25
+{RQF}Mistik31    15  14   0   16   0  51   5507   6030     20
+[bst]KRISA       11  14   0   16   0  44   5049   4996     14
+{RQF}Sub-Zero     9  19   0   16   0  32   3963   5364      9
+[brn]             8   4   0    8   1  66   2222   1743      9
+Rimuru            0   0   0    0   0   0      0      0      0
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+SG   27.2    3/11       1      0 [bst]KRISA
+GL    1.4    2/141      0      0 [brn]
+RL   18.3   11/60       1      0 [brn]
+LG   37.8  437/1156    16     11 [bst]Abibas
+RG   55.7   29/52       7      0 [bst]Abibas
+PG   36.8    7/19       0      0 {RQF}Sub-Zero
+Best 35.9  479/1332              [bst]Abibas
+
+Awards List:
+------------------------------------------------------
+Most Thaws                  5    {RQF}Mistik31
+Most Defense                1    [bst]Abibas
+Most Assists                5    {RQF}Mistik31
+Most Impressive             9    [bst]KRISA
+Most Excellent              5    [bst]Abibas
+Most Kills                 23    [bst]Abibas
+Best Efficiency          66.6    [brn]
+Best Kill Streak            7    [bst]Abibas
+Best Skill               1024    [bst]Abibas
+
+
+Current time: 16:50:46 (11 Nov 2023)
+
+Dumped console text to stats/2023.11.11/165045.txt.

@@ -1,0 +1,130 @@
+
+
+Accuracy info for: {STF}-Rimuru
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Machinegun  :     0.0    0/4        0      0      0     0
+Shotgun     :    31.8    7/22       1      0      0     0
+G.Launcher  :     0.0    0/30       0      0      0     0
+R.Launcher  :    47.7   42/88       8      3      0     0
+LightningGun:    32.0  113/353      4      1      0     0
+Railgun     :    54.0   20/37       2      1      0     0
+Plasmagun   :    16.6    2/12       0      0      0     0
+
+Damage Given: 4869    Armor Taken : 915    (9 YA, 4 RA)
+Damage Recvd: 3257    Health Taken: 435    (3 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {STF}-Mill
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/9        0      0      0     0
+R.Launcher  :    10.7    6/56       1      0      0     0
+LightningGun:    35.1  192/547      7      1      0     0
+Railgun     :    46.6    7/15       0      4      0     0
+
+Damage Given: 2235    Armor Taken : 320    (5 YA, 0 RA)
+Damage Recvd: 2503    Health Taken: 185    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: ^<!>Shantu
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/20       0      0      0     0
+R.Launcher  :    20.5    8/39       0      5      0     0
+LightningGun:    30.2   92/304      1      4      0     0
+Railgun     :    44.8   13/29       2      2      0     0
+
+Damage Given: 2170    Armor Taken : 330    (4 YA, 1 RA)
+Damage Recvd: 3515    Health Taken: 125    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: ^>!<HEERO-2B
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/17       0      0      0     0
+R.Launcher  :    28.0   23/82       6      4      0     0
+LightningGun:    37.7   89/236      2      6      0     0
+Railgun     :    58.3   14/24       2      0      0     0
+
+Damage Given: 3314    Armor Taken : 695    (4 YA, 4 RA)
+Damage Recvd: 3741    Health Taken: 625    (3 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: ^>!<KF
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/0        0      1      0     0
+G.Launcher  :     4.2    3/70       0      0      0     0
+R.Launcher  :    21.8   14/64       1      4      0     0
+LightningGun:    47.6  141/296      1      4      0     0
+Railgun     :    43.7    7/16       1      1      0     0
+Plasmagun   :    42.5   17/40       0      0      0     0
+
+Damage Given: 2959    Armor Taken : 375    (2 YA, 2 RA)
+Damage Recvd: 3249    Health Taken: 225    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {STF}-Vyazemsk1y^5-7
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/13       0      0      0     0
+R.Launcher  :    40.0   36/90       4      4      0     0
+LightningGun:    38.2  102/267      3      2      0     0
+Railgun     :    58.3    7/12       1      0      0     0
+
+Damage Given: 3501    Armor Taken : 635    (4 YA, 4 RA)
+Damage Recvd: 2654    Health Taken: 385    (3 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: ztn3tourney1
+Time Remaining: 12:26
+
+Player          Kll Dth Sui Time FPM Eff     DG     DR  Score
+-------------------------------------------------------------
+{STF}-Rimuru     15   5   0    7   2  75   4869   3257     18
+!<HEERO-2B     10  10   0    7   1  50   3314   3741     10
+{STF}-Mill        8   5   0    7   1  61   2235   2503      8
+{STF}-Vyazemsk1   8   6   0    7   1  57   3501   2654      8
+!<KF            3  10   0    7   0  23   2959   3249      4
+!>Shantu        3  11   0    7   0  21   2170   3515      3
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+SG   31.8    7/22       1      0 {STF}-Rimuru
+GL    4.2    3/70       0      0 !<KF
+RL   47.7   42/88       8      3 {STF}-Rimuru
+LG   47.6  141/296      1      4 !<KF
+RG   58.3   14/24       2      0 !<HEERO-2B
+PG   42.5   17/40       0      0 !<KF
+Best 38.4  147/382               {STF}-Vyazemsk1y-7
+
+Awards List:
+------------------------------------------------------
+Most Thaws                  3    {STF}-Rimuru
+Most Defense                1    {STF}-Rimuru
+Most Assists                3    {STF}-Rimuru
+Most Impressive             7    {STF}-Rimuru
+Most Excellent              2    {STF}-Rimuru
+Most Kills                 15    {STF}-Rimuru
+Best Efficiency          75.0    {STF}-Rimuru
+Best Kill Streak           10    {STF}-Rimuru
+Best Skill               1019    {STF}-Rimuru
+
+
+Current time: 23:31:39 (07 Nov 2023)
+
+Dumped console text to stats/2023.11.07/233139.txt.

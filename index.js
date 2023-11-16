@@ -15,7 +15,6 @@ statsDir.forEach((path) => {
     playersStats.forEach((pl) => {
       const profile = playersBase.find((a) => a.nick == pl.nick)
       if (profile) {
-        profile.nick = pl.nick
         profile.kills += pl.kills
         profile.deaths += pl.deaths
         profile.thw += pl.thw

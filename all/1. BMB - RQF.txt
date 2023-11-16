@@ -1,0 +1,132 @@
+
+{RQF}Mistik31: =)
+
+Accuracy info for: {RQF}Mistik31
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :    45.4    5/11       1      0      0     0
+G.Launcher  :     0.0    0/15       0      0      0     0
+R.Launcher  :     7.0    5/71       0      2      0     0
+LightningGun:    31.6  348/1100    12      4      0     0
+Railgun     :    47.3    9/19       3      1      0     0
+Plasmagun   :     0.0    0/5        0      0      0     0
+
+Damage Given: 3658    Armor Taken : 620    (1 YA, 5 RA)
+Damage Recvd: 2833    Health Taken: 250    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {RQF}Sub-Zero
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     9.0    1/11       1      0      0     0
+G.Launcher  :     0.0    0/2        0      1      0     0
+R.Launcher  :    22.5   42/186      4      2      0     0
+LightningGun:    36.9  267/723      6      5      0     0
+Railgun     :    22.7    5/22       0      1      0     0
+Plasmagun   :     0.0    0/8        0      0      0     0
+
+Damage Given: 4552    Armor Taken : 755    (5 YA, 4 RA)
+Damage Recvd: 4018    Health Taken: 475    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: *BMB*27sz
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/2        0      1      0     0
+R.Launcher  :     0.0    0/43       0      2      0     0
+LightningGun:    27.0  246/910      5     10      0     0
+Railgun     :    12.5    1/8        0      2      0     0
+
+Damage Given: 1812    Armor Taken : 405    (7 YA, 0 RA)
+Damage Recvd: 4255    Health Taken: 225    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: *BMB*CastAspell
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/11       0      0      0     0
+G.Launcher  :     3.5    2/56       2      0      0     0
+R.Launcher  :    12.1   18/148      2      0      0     0
+LightningGun:    39.0  399/1021     4      9      0     0
+Railgun     :    70.0   14/20       3      1      0     0
+
+Damage Given: 5461    Armor Taken : 995    (1 YA, 9 RA)
+Damage Recvd: 4850    Health Taken: 625    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: *BMB*gepron1x
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/0        0      2      0     0
+G.Launcher  :     5.8    1/17       0      0      0     0
+R.Launcher  :     5.7   12/210      2      2      0     0
+LightningGun:    31.0  249/803      6      8      0     0
+Railgun     :    47.3    9/19       0      2      0     0
+Plasmagun   :     0.0    0/37       0      0      0     0
+
+Damage Given: 3332    Armor Taken : 35     (0 YA, 0 RA)
+Damage Recvd: 4315    Health Taken: 725    (6 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: [brn]
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     7.1    3/42       1      1      0     0
+R.Launcher  :    22.2   14/63       0      0      0     0
+LightningGun:    32.0  461/1438     9      6      0     0
+Railgun     :    55.0   11/20       2      1      0     0
+
+Damage Given: 5307    Armor Taken : 470    (2 YA, 3 RA)
+Damage Recvd: 3673    Health Taken: 300    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: oxodm32
+Time Remaining: 8:57
+
+Player          Kll Dth Sui Time FPM Eff     DG     DR  Score
+-------------------------------------------------------------
+{RQF}Mistik31    16   7   0   11   1  69   3658   2833     16
+*BMB*CastAspell  11  10   0   11   1  52   5461   4850     13
+[brn]            12   8   0   11   1  60   5307   3673     13
+{RQF}Sub-Zero    11   9   0   11   1  55   4552   4018     11
+*BMB*gepron1x     8  14   0   11   0  36   3332   4315     10
+*BMB*27sz         5  15   0   11   0  25   1812   4255      5
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+SG   45.4    5/11       1      0 {RQF}Mistik31
+GL    7.1    3/42       1      1 [brn]
+RL   22.5   42/186      4      2 {RQF}Sub-Zero
+LG   39.0  399/1021     4      9 *BMB*CastAspell
+RG   70.0   14/20       3      1 *BMB*CastAspell
+Best 34.6  435/1256              *BMB*CastAspell
+
+Awards List:
+------------------------------------------------------
+Most Thaws                  2    *BMB*CastAspell
+Most Defense                1    [brn]
+Most Assists                2    *BMB*CastAspell
+Most Impressive             6    *BMB*CastAspell
+Most Excellent              2    *BMB*CastAspell
+Most Kills                 16    {RQF}Mistik31
+Best Efficiency          69.5    {RQF}Mistik31
+Best Kill Streak            8    *BMB*CastAspell
+Best Skill               1020    {RQF}Mistik31
+
+
+Current time: 19:48:16 (11 Nov 2023)
+
+Dumped console text to stats/2023.11.11/194816.txt.

@@ -1,0 +1,98 @@
+
+
+Accuracy info for: [bst]unk
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   11.1    8/72       1      0      0     0
+LightningGun:   40.0  145/362      7      1      0     0
+Railgun     :   45.7   16/35       5      2      0     0
+
+Damage Given: 3197   Armor Taken : 250 (1 YA, 2 RA)
+Damage Recvd: 2208   Health Taken: 200 (2 MH)
+
+Accuracy info for: R72.LOKOMOTIV
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   30.5   11/36       1      1      0     0
+LightningGun:   34.2   99/289      3      6      0     0
+Railgun     :   52.0   13/25       2      4      0     0
+
+Damage Given: 2602   Armor Taken : 350 (1 YA, 3 RA)
+Damage Recvd: 3247   Health Taken: 75
+
+Accuracy info for: Cybra
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :   27.2    3/11       0      1      0     0
+R.Launcher  :    6.4    2/31       0      0      0     0
+LightningGun:   31.0   51/164      0      4      0     0
+Railgun     :   60.0   18/30       2      6      0     0
+
+Damage Given: 2412   Armor Taken : 50 (1 YA)
+Damage Recvd: 3122   Health Taken: 125 (1 MH)
+
+Accuracy info for: [bst]Abibas
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/1        0      0      0     0
+R.Launcher  :    4.5    1/22       0      1      0     0
+LightningGun:   37.5  206/548      7      0      0     0
+Railgun     :   64.7   22/34       7      1      0     0
+
+Damage Given: 3948   Armor Taken : 150 (3 YA)
+Damage Recvd: 1832   Health Taken: 150 (1 MH)
+
+Accuracy info for: [bst]KRISA
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :   18.1    6/33       1      0      0     0
+R.Launcher  :   16.0    4/25       0      0      0     0
+LightningGun:   37.2   98/263      2      3      0     0
+Railgun     :   58.8   10/17       2      3      0     0
+Plasmagun   :   25.0    7/28       0      0      0     0
+
+Damage Given: 2189   Armor Taken : 100 (1 RA)
+Damage Recvd: 2114   Health Taken: 0
+
+Accuracy info for: John Coffey
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/2        0      0      0     0
+R.Launcher  :    9.0    4/44       0      0      0     0
+LightningGun:   26.4   28/106      1      6      0     0
+Railgun     :   33.3    8/24       2      4      0     0
+
+Damage Given: 1140   Armor Taken : 200 (2 RA)
+Damage Recvd: 2965   Health Taken: 175 (1 MH)
+
+Map: ts_ca1
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  R72.LOKOMOTIV     6   0  11   0  0   0  35  2602  3247    0      6
+RED  John Coffey       3   0  10   0  0   1  23  1140  2965    0      3
+RED  Cybra             2   0  11   0  0   0  15  2412  3122    0      2
+-----------------------------------------------------------------------
+RED  Totals           11   0  32   0  0   1   3  6154  9334    0      1
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE [bst]Abibas      14   1   2   0  0   9  88  3948  1832    0     15
+BLUE [bst]unk         13   0   3   0  0   9  81  3197  2208    0     13
+BLUE [bst]KRISA        5   0   6   0  0   5  45  2189  2114    0      5
+-----------------------------------------------------------------------
+BLUE Totals           32   1  11   0  0  23  47  9334  6154    0     10
+
+
+
+
+Current time: 22:09:43 (12 Nov 2023)
+
+Dumped console text to stats/2023.11.12/220944.txt.

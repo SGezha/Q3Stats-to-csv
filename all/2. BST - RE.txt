@@ -1,0 +1,102 @@
+
+
+Accuracy info for: RedMachine
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :                      0      1
+Shotgun     :    0.0    0/11       0      0      0     0
+R.Launcher  :   42.2   19/45       2      1      0     0
+LightningGun:   32.8  107/326      0      5      0     0
+Railgun     :   35.7    5/14       1      5      0     0
+Plasmagun   :    8.3    2/24       0      0      0     0
+
+Damage Given: 2529   Armor Taken : 340 (2 YA, 2 RA)
+Damage Recvd: 3512   Health Taken: 95
+
+Accuracy info for: asv
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :                      0      2
+G.Launcher  :   12.5    1/8        0      0      0     0
+R.Launcher  :   36.2   29/80       3      1      0     0
+LightningGun:   26.4  140/530      2      7      0     0
+Railgun     :   37.5    9/24       3      3      0     0
+
+Damage Given: 3928   Armor Taken : 355 (2 YA, 2 RA)
+Damage Recvd: 3854   Health Taken: 240
+
+Accuracy info for: izolenta
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/3        0      0      0     0
+R.Launcher  :   39.5   19/48       1      3      0     0
+LightningGun:   38.3  172/449      5      4      0     0
+Railgun     :   56.2    9/16       3      4      0     0
+
+Damage Given: 3428   Armor Taken : 180 (3 YA)
+Damage Recvd: 3342   Health Taken: 310 (1 MH)
+
+Accuracy info for: [bst]Abibas
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   26.8   11/41       1      4      0     0
+LightningGun:   29.5  222/752      2      2      0     0
+Railgun     :   44.4   12/27       2      2      0     0
+
+Damage Given: 3617   Armor Taken : 535 (4 YA, 3 RA)
+Damage Recvd: 3073   Health Taken: 270
+
+Accuracy info for: .unk
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :    0.0    3/0        3      0
+G.Launcher  :    0.0    0/18       0      0      0     0
+R.Launcher  :   23.1   25/108      2      2      0     0
+LightningGun:   36.6  154/420      4      3      0     0
+Railgun     :   47.3    9/19       6      2      0     0
+
+Damage Given: 3875   Armor Taken : 230 (1 YA, 1 RA)
+Damage Recvd: 3593   Health Taken: 650 (4 MH)
+
+Accuracy info for: [bst]KRISA
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   12.2    6/49       2      0      0     0
+LightningGun:   32.3  216/668     10      2      0     0
+Railgun     :   62.5   10/16       4      3      0     0
+Plasmagun   :   16.6    6/36       0      0      0     0
+
+Damage Given: 3216   Armor Taken : 450 (4 RA)
+Damage Recvd: 3219   Health Taken: 295
+
+Map: Q3shw24
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  izolenta          9   2  11   0  0   2  50  3428  3342    0     11
+RED  asv               8   2  13   0  0   1  43  3928  3854    0     10
+RED  RedMachine        3   0  12   0  0   2  20  2529  3512    0      3
+-----------------------------------------------------------------------
+RED  Totals           20   4  36   0  0   5   5  9885 10708    0      2
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE [bst]KRISA       16   4   5   0  0   8  80  3216  3219    0     20
+BLUE .unk             15   0   7   0  0   7  68  3875  3593    0     15
+BLUE [bst]Abibas       5   1   8   0  0   6  42  3617  3073    0      6
+-----------------------------------------------------------------------
+BLUE Totals           36   5  20   0  0  21  33 10708  9885    0     10
+
+
+
+
+Current time: 23:00:50 (14 Nov 2023)
+
+Dumped console text to stats/2023.11.14/220051.txt.
