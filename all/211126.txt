@@ -1,0 +1,127 @@
+
+
+Accuracy info for: R72.LOKOMOTIV
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Machinegun  :     0.0    0/0        0      1      0     0
+G.Launcher  :     0.0    0/4        0      0      0     0
+R.Launcher  :    19.0    4/21       0      1      0     0
+LightningGun:    23.3   91/389      3      6      0     0
+Railgun     :    40.0   16/40       2      3      0     0
+
+Damage Given: 2368    Armor Taken : 425    (2 YA, 3 RA)
+Damage Recvd: 3195    Health Taken: 150    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: AdrenalineRush
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Machinegun  :     0.0    0/3        0      0      0     0
+G.Launcher  :    11.1    1/9        0      0      0     0
+R.Launcher  :    25.8    8/31       0      0      0     0
+LightningGun:    35.2  242/687      7      3      0     0
+Railgun     :    56.5   13/23       2      1      0     0
+
+Damage Given: 3334    Armor Taken : 180    (1 YA, 1 RA)
+Damage Recvd: 1926    Health Taken: 125    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: tc belaruskij
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/11       0      0      0     0
+G.Launcher  :     5.5    1/18       0      0      0     0
+R.Launcher  :    26.6    8/30       2      0      0     0
+LightningGun:    38.3  344/896      9      1      0     0
+Railgun     :    37.5    9/24       3      1      0     0
+
+Damage Given: 4051    Armor Taken : 460    (5 YA, 2 RA)
+Damage Recvd: 2003    Health Taken: 250    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: John Coffey
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :   100.0    1/1        0      0      0     0
+R.Launcher  :    36.6   11/30       0      1      0     0
+LightningGun:    26.2   68/259      1      8      0     0
+Railgun     :    37.5    6/16       0      2      0     0
+
+Damage Given: 1565    Armor Taken : 150    (3 YA, 0 RA)
+Damage Recvd: 3064    Health Taken: 200    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: Cybra
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/1        0      0      0     0
+R.Launcher  :    18.7    3/16       0      2      0     0
+LightningGun:    31.1   72/231      0      7      0     0
+Railgun     :    51.7   15/29       2      1      0     0
+
+Damage Given: 1971    Armor Taken : 115    (0 YA, 1 RA)
+Damage Recvd: 2951    Health Taken: 225    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: ///Mus1n*
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Machinegun  :    31.8    7/22       1      0      0     0
+G.Launcher  :     0.0    0/8        0      0      0     0
+R.Launcher  :    14.0    9/64       2      0      0     0
+LightningGun:    30.0  135/449      5      0      0     0
+Railgun     :    66.6    4/6        1      2      0     0
+Plasmagun   :     0.0    0/5        0      0      0     0
+
+Damage Given: 1980    Armor Taken : 500    (4 YA, 3 RA)
+Damage Recvd: 1918    Health Taken: 150    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: oxodm14
+Time Remaining: 15:27
+
+Player          Kll Dth Sui Time FPM Eff     DG     DR  Score
+-------------------------------------------------------------
+tc belaruskij    14   2   0    4   3  87   4051   2003     14
+///Mus1n*         9   2   0    4   2  81   1980   1918      9
+AdrenalineRush    9   4   0    4   2  69   3334   1926      9
+R72.LOKOMOTIV     5  11   0    4   1  31   2368   3195      5
+Cybra             2  10   0    4   0  16   1971   2951      2
+John Coffey       1  11   0    4   0   8   1565   3064      1
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+MG   31.8    7/22       1      0 ///Mus1n*
+GL    5.5    1/18       0      0 tc belaruskij
+RL   36.6   11/30       0      1 John Coffey
+LG   38.3  344/896      9      1 tc belaruskij
+RG   56.5   13/23       2      1 AdrenalineRush
+Best 36.9  362/979               tc belaruskij
+
+Awards List:
+------------------------------------------------------
+Most Defense                1    R72.LOKOMOTIV
+Most Impressive             5    AdrenalineRush
+Most Excellent              2    tc belaruskij
+Most Kills                 14    tc belaruskij
+Best Efficiency          87.5    tc belaruskij
+Best Kill Streak            9    tc belaruskij
+Best Skill               1023    tc belaruskij
+
+
+Current time: 01:11:27 (17 Nov 2023)
+
+Dumped console text to stats/2023.11.16/211126.txt.

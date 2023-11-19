@@ -1,0 +1,101 @@
+
+
+Accuracy info for: HTF.Labr
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    6.2    1/16       0      0      0     0
+R.Launcher  :   28.1   20/71       3      3      0     0
+LightningGun:   26.3   81/307      3      2      0     0
+Railgun     :   33.3    8/24       1      0      0     0
+Plasmagun   :    7.6    1/13       0      0      0     0
+
+Damage Given: 2808   Armor Taken : 275 (3 YA, 1 RA)
+Damage Recvd: 2507   Health Taken: 200
+
+Accuracy info for: R72.LOKOMOTIV
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :                      0      1
+G.Launcher  :    0.0    0/2        0      0      0     0
+R.Launcher  :   27.2   12/44       4      3      0     0
+LightningGun:   27.1  129/475      0      3      0     0
+Railgun     :   36.8    7/19       1      4      0     0
+
+Damage Given: 2530   Armor Taken : 300 (2 YA, 2 RA)
+Damage Recvd: 3760   Health Taken: 185 (1 MH)
+
+Accuracy info for: John Coffey
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/6        0      0      0     0
+R.Launcher  :   15.1   10/66       0      2      0     0
+LightningGun:   27.8  141/506      4      7      0     0
+Railgun     :   33.3    5/15       2      1      0     0
+
+Damage Given: 2185   Armor Taken : 150 (1 YA, 1 RA)
+Damage Recvd: 3101   Health Taken: 105
+
+Accuracy info for: HTF.yako
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   20.0    2/10       0      0      0     0
+R.Launcher  :   29.1   14/48       4      0      0     0
+LightningGun:   35.1  224/637     10      2      0     0
+Railgun     :   63.1   12/19       4      2      0     0
+
+Damage Given: 4012   Armor Taken : 745 (4 YA, 5 RA)
+Damage Recvd: 2595   Health Taken: 210 (1 MH)
+
+Accuracy info for: HTF.pdv
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :    0.0    2/0        1      0
+G.Launcher  :   50.0    1/2        0      0      0     0
+R.Launcher  :   12.8    5/39       0      2      0     0
+LightningGun:   37.4   61/163      1      1      0     0
+Railgun     :   57.1   20/35       4      1      0     0
+
+Damage Given: 2951   Armor Taken : 480 (7 YA, 1 RA)
+Damage Recvd: 2182   Health Taken: 450 (4 MH)
+
+Accuracy info for: Cybra
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :    8.3    3/36       1      2      0     0
+LightningGun:   35.1  111/316      1      4      0     0
+Railgun     :   44.1   15/34       0      4      0     0
+
+Damage Given: 2569   Armor Taken : 0
+Damage Recvd: 2910   Health Taken: 125 (1 MH)
+
+Map: oxodm54
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  HTF.yako         18   1   4   0  0   8  82  4012  2595    0     19
+RED  HTF.Labr          7   0   5   0  0   8  58  2808  2507    0      7
+RED  HTF.pdv           6   0   4   0  0   8  60  2951  2182    0      6
+-----------------------------------------------------------------------
+RED  Totals           31   1  13   0  0  24  43  9771  7284    0     10
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE John Coffey       6   1  10   0  0   2  41  2185  3101    0      7
+BLUE R72.LOKOMOTIV     5   0  11   0  0   2  31  2530  3760    0      5
+BLUE Cybra             2   0  10   0  0   2  16  2569  2910    0      2
+-----------------------------------------------------------------------
+BLUE Totals           13   1  31   0  0   6   6  7284  9771    0      2
+
+
+
+
+Current time: 23:24:09 (17 Nov 2023)
+
+Dumped console text to stats/2023.11.17/232409.txt.

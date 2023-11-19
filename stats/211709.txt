@@ -1,0 +1,126 @@
+
+
+Accuracy info for: ///Mus1n
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Gauntlet    :     0.0    1/0        0      0      0     0
+Shotgun     :     9.0    3/33       2      0      0     0
+G.Launcher  :     0.0    0/2        0      1      0     0
+R.Launcher  :    31.8   21/66       2      0      0     0
+LightningGun:    44.8  249/555      9      1      0     0
+Railgun     :    25.0    3/12       1      0      0     0
+Plasmagun   :     0.0    0/6        0      0      0     0
+
+Damage Given: 3123    Armor Taken : 350    (5 YA, 1 RA)
+Damage Recvd: 2000    Health Taken: 190    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: AdrenalineRush
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+R.Launcher  :    47.6   20/42       3      0      0     0
+LightningGun:    41.2  153/371      3      2      0     0
+Railgun     :    47.0    8/17       3      1      0     0
+
+Damage Given: 3154    Armor Taken : 250    (1 YA, 2 RA)
+Damage Recvd: 1777    Health Taken: 120    (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: tc belaruskij
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     5.4    3/55       1      0      0     0
+G.Launcher  :     0.0    0/7        0      0      0     0
+R.Launcher  :    21.2    7/33       1      1      0     0
+LightningGun:    38.5  176/456      5      1      0     0
+Railgun     :    46.1    6/13       1      0      0     0
+
+Damage Given: 2297    Armor Taken : 550    (5 YA, 3 RA)
+Damage Recvd: 1984    Health Taken: 90     (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: *BMB* qurdea
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+R.Launcher  :    60.0    3/5        0      3      0     0
+LightningGun:    31.3  113/360      2      7      0     0
+Railgun     :    52.0   13/25       1      1      0     0
+
+Damage Given: 2164    Armor Taken : 100    (0 YA, 1 RA)
+Damage Recvd: 2995    Health Taken: 95     (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: *BMB*gepron1x
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/4        0      0      0     0
+R.Launcher  :    35.0   14/40       1      1      0     0
+LightningGun:    46.6  133/285      1      5      0     0
+Railgun     :    50.0    6/12       0      4      0     0
+
+Damage Given: 2266    Armor Taken : 0      (0 YA, 0 RA)
+Damage Recvd: 2672    Health Taken: 5      (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: *BMB*CastAspell
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/0        0      3      0     0
+G.Launcher  :     0.0    0/17       1      0      0     0
+R.Launcher  :    13.0    3/23       0      2      0     0
+LightningGun:    28.9  112/387      1      5      0     0
+Railgun     :    35.2    6/17       0      0      0     0
+
+Damage Given: 1508    Armor Taken : 150    (1 YA, 1 RA)
+Damage Recvd: 2688    Health Taken: 40     (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: oxodm90
+Time Remaining: 16:01
+
+Player          Kll Dth Sui Time FPM Eff     DG     DR  Score
+-------------------------------------------------------------
+///Mus1n         14   2   0    3   4  87   3123   2000     14
+AdrenalineRush    9   3   0    3   3  75   3154   1777      9
+tc belaruskij     8   2   0    3   2  80   2297   1984      8
+*BMB* qurdea      3  11   0    3   1  21   2164   2995      3
+*BMB*CastAspell   2  10   0    3   0  16   1508   2688      3
+*BMB*gepron1x     2  10   0    3   0  16   2266   2672      2
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+SG    9.0    3/33       2      0 ///Mus1n
+RL   47.6   20/42       3      0 AdrenalineRush
+LG   46.6  133/285      1      5 *BMB*gepron1x
+RG   52.0   13/25       1      1 *BMB* qurdea
+Best 44.8  153/341               *BMB*gepron1x
+
+Awards List:
+------------------------------------------------------
+Most Thaws                  1    *BMB*CastAspell
+Most Defense                2    ///Mus1n
+Most Assists                1    *BMB*CastAspell
+Most Impressive             4    *BMB* qurdea
+Most Excellent              2    ///Mus1n
+Most Kills                 14    ///Mus1n
+Best Efficiency          87.5    ///Mus1n
+Best Kill Streak            9    ///Mus1n
+Best Skill               1021    ///Mus1n
+
+
+Current time: 21:17:09 (17 Nov 2023)
+
+Dumped console text to stats/2023.11.17/211709.txt.

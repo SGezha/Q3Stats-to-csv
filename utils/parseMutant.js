@@ -1,17 +1,17 @@
 const getIdenticalCount = (str1, str2) => {
-  let count = 0;
-  
+  let count = 0
+
   for (let ch of str1) {
     if (str2.includes(ch)) {
-      count++;
+      count++
     }
   }
-  
-  return count;
+
+  return count
 }
 
 module.exports = (path, data) => {
-  if(data.includes('^>')) data.replace('^>', '')
+  if (data.includes('^>')) data.replace('^>', '')
 
   let stats = data.split('Map: ')[0].split('Accuracy info for: ')
 
@@ -27,15 +27,20 @@ module.exports = (path, data) => {
     .split('-------------------------------------------------------------')[1]
     .split('Best Match Accuracies')[0]
 
-  let map = data.split('Map: ')[1].split('\r')[0]
-  let date = data.split('Current time: ')[1].split('\r')[0]
+  let map = data.split('Map: ')[1].split('\n')[0]
+  let date = data.split('Current time: ')[1].split('\n')[0]
+
+  if (data.includes('\r')) {
+    map = data.split('Map: ')[1].split('\r')[0]
+    date = data.split('Current time: ')[1].split('\r')[0]
+  }
 
   let players = []
 
   console.log(`Parsing game ${path} - Mutant ${map} ${date}`)
 
   if (data.indexOf('Accuracy info for: ') == -1)
-    stats = playersStats.split('\n').filter((a) => a != '\r' && a != '')
+    stats = playersStats.split('\n').filter((a) => a != '')
 
   stats.forEach((p, ind) => {
     if (ind == 0) return
@@ -44,7 +49,7 @@ module.exports = (path, data) => {
     let obj = {
       nick:
         data.indexOf('Accuracy info for: ') > -1
-          ? p.split('\r')[0]
+          ? p.split('\r')[0].split('\n')[0]
           : p.replace(/\s+/g, ' ').trim().split(' ')[1].split(' ')[0],
       kills: 0,
       deaths: 0,
@@ -55,10 +60,16 @@ module.exports = (path, data) => {
       damageRecvd: 0
     }
     playersStats.split('\n').forEach((h, k) => {
-      let needToTrue = h.includes(obj.nick.slice(0, 15)) 
-      if(obj.nick.includes('gepron1x')) needToTrue = h.includes(obj.nick.slice(0, 15))
-      if(obj.nick.includes('Adrenal')) needToTrue = h.includes(obj.nick.slice(0, 15))
-      if(obj.nick == "^>!<HEERO-2B"  || obj.nick == "^>!<Shantu" || obj.nick == "^>!<KF") {
+      let needToTrue = h.includes(obj.nick.slice(0, 15))
+      if (obj.nick.includes('gepron1x'))
+        needToTrue = h.includes(obj.nick.slice(0, 15))
+      if (obj.nick.includes('Adrenal'))
+        needToTrue = h.includes(obj.nick.slice(0, 15))
+      if (
+        obj.nick == '^>!<HEERO-2B' ||
+        obj.nick == '^>!<Shantu' ||
+        obj.nick == '^>!<KF'
+      ) {
         obj.nick = obj.nick = obj.nick.slice(2)
       }
       if (needToTrue) {
@@ -73,31 +84,35 @@ module.exports = (path, data) => {
       }
     })
 
-    if(obj.nick == "!<HEERO-2B"  || obj.nick == "!<Shantu" || obj.nick == "!<KF") {
+    if (
+      obj.nick == '!<HEERO-2B' ||
+      obj.nick == '!<Shantu' ||
+      obj.nick == '!<KF'
+    ) {
       obj.nick = `^>${obj.nick}`
     }
 
-    if(obj.nick == '^<!>Shantu') {
+    if (obj.nick == '^<!>Shantu') {
       obj.nick = '^>!<Shantu'
     }
 
-    if(obj.nick == 'Vyazemsk1y^5-7') {
+    if (obj.nick == 'Vyazemsk1y^5-7') {
       obj.nick = '{STF}-Vyazemsk1y^5-7'
     }
 
-    if(obj.nick == 'Asuna') {
+    if (obj.nick == 'Asuna') {
       obj.nick = '[FLY]Asuna'
     }
 
-    if(obj.nick == 'Rimuru') {
+    if (obj.nick == 'Rimuru') {
       obj.nick = '{STF}-Rimuru'
     }
 
-    if(obj.nick == '{STF}-Vyazemsk1y75-7') {
+    if (obj.nick == '{STF}-Vyazemsk1y75-7') {
       obj.nick = '{STF}-Vyazemsk1y^5-7'
     }
 
-    if(obj.nick == '.unk') {
+    if (obj.nick == '.unk') {
       obj.nick = '[bst]unk'
     }
 
@@ -116,7 +131,7 @@ module.exports = (path, data) => {
         let weaponName = w.split(' ')[0]
         if (i == 0 || weaponName == false) return
         w = w.replace(/\s+/g, ' ').trim()
-        if(weaponName == "Machinegun") weaponName = "MachineGun"
+        if (weaponName == 'Machinegun') weaponName = 'MachineGun'
         obj.weaponStats[weaponName] = {
           hits:
             w.split(':')[1].split(' ').length > 6
