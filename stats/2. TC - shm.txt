@@ -1,0 +1,102 @@
+
+
+Accuracy info for: tc belaruskij
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :   22.7    5/22       1      0      0     0
+G.Launcher  :    0.0    0/4        0      0      0     0
+R.Launcher  :   40.6   35/86       5      2      0     0
+LightningGun:   31.3  105/335      4      3      0     0
+Railgun     :   44.0   11/25       1      2      0     0
+
+Damage Given: 4382   Armor Taken : 565 (4 YA, 3 RA)
+Damage Recvd: 3295   Health Taken: 235 (1 MH)
+
+Accuracy info for: AdrenalineRush
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/5        0      0      0     0
+R.Launcher  :   23.5    8/34       0      2      0     0
+LightningGun:   26.1  184/703     10      1      0     0
+Railgun     :   53.8    7/13       3      3      0     0
+
+Damage Given: 2738   Armor Taken : 375 (4 YA, 1 RA)
+Damage Recvd: 2472   Health Taken: 85
+
+Accuracy info for: ///Mus1n*
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :  100.0    2/2        0      0      0     0
+R.Launcher  :   29.7   22/74       2      2      0     0
+LightningGun:   34.4  154/447      3      1      0     0
+Railgun     :   41.1    7/17       2      5      0     0
+
+Damage Given: 3223   Armor Taken : 230 (4 YA)
+Damage Recvd: 3001   Health Taken: 65
+
+Accuracy info for: shmizzy
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    0.0    0/11       0      1      0     0
+G.Launcher  :    0.0    0/2        0      0      0     0
+R.Launcher  :   34.3   23/67       1      2      0     0
+LightningGun:   27.2   71/261      0      6      0     0
+Railgun     :   40.0   14/35       4      2      0     0
+
+Damage Given: 2953   Armor Taken : 570 (3 YA, 4 RA)
+Damage Recvd: 3669   Health Taken: 260 (1 MH)
+
+Accuracy info for: shmorie
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/3        0      0      0     0
+R.Launcher  :   35.8   28/78       3      2      0     0
+LightningGun:   22.3   25/112      1      6      0     0
+Railgun     :   30.4    7/23       3      2      0     0
+
+Damage Given: 2723   Armor Taken : 105
+Damage Recvd: 2986   Health Taken: 35
+
+Accuracy info for: shmodin
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    0.0    0/22       0      0      0     0
+G.Launcher  :    0.0    0/2        0      0      0     0
+R.Launcher  :   26.8   18/67       2      3      0     0
+LightningGun:   34.3  102/297      4      5      0     0
+Railgun     :   41.1   14/34       3      2      0     0
+
+Damage Given: 3092   Armor Taken : 495 (5 YA, 2 RA)
+Damage Recvd: 3688   Health Taken: 250 (1 MH)
+
+Map: oxodm17
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  AdrenalineRush   13   0   6   0  0   7  68  2738  2472    0     13
+RED  tc belaruskij    11   0   7   0  0   6  61  4382  3295    0     11
+RED  ///Mus1n*         7   0   8   0  0   5  46  3223  3001    0      7
+-----------------------------------------------------------------------
+RED  Totals           31   0  21   0  0  18  32 10343  8768    0     10
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE shmodin           9   0  10   0  0   3  47  3092  3688    0      9
+BLUE shmorie           7   1  10   0  0   3  44  2723  2986    0      8
+BLUE shmizzy           5   0  11   0  0   3  31  2953  3669    0      5
+-----------------------------------------------------------------------
+BLUE Totals           21   1  31   0  0   9   8  8768 10343    0      3
+
+
+
+
+Current time: 20:40:54 (19 Nov 2023)
+
+Dumped console text to stats/2023.11.19/204054.txt.

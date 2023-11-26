@@ -1,0 +1,96 @@
+
+
+Accuracy info for: Psyborgn8
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   38.2   13/34       1      2      0     0
+LightningGun:   34.8  131/376      2      7      0     0
+Railgun     :   28.0    7/25       0      3      0     0
+
+Damage Given: 2428   Armor Taken : 80 (1 YA)
+Damage Recvd: 3219   Health Taken: 125
+
+Accuracy info for: xpown8
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :                      0      1
+R.Launcher  :   16.6    5/30       0      0      0     0
+LightningGun:   31.1  196/629      5      7      0     0
+Railgun     :   21.0    4/19       0      3      0     0
+
+Damage Given: 2180   Armor Taken : 120 (1 RA)
+Damage Recvd: 3013   Health Taken: 135
+
+Accuracy info for: ixxaaa
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   55.5   10/18       1      1      0     0
+LightningGun:   35.9  119/331      2      5      0     0
+Railgun     :   45.8   11/24       4      0      0     0
+
+Damage Given: 2531   Armor Taken : 25
+Damage Recvd: 2564   Health Taken: 125
+
+Accuracy info for: M1ragen8
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   32.6   15/46       0      5      0     0
+LightningGun:   33.3   72/216      1      3      0     0
+Railgun     :   36.3   16/44       3      3      0     0
+
+Damage Given: 2863   Armor Taken : 275 (3 YA, 1 RA)
+Damage Recvd: 3467   Health Taken: 200 (1 MH)
+
+Accuracy info for: [FLY]Asuna
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Gauntlet    :    0.0    1/0        1      0
+R.Launcher  :   29.5   21/71       6      0      0     0
+LightningGun:   35.8  204/569      8      2      0     0
+Railgun     :   48.2   14/29       3      1      0     0
+
+Damage Given: 4303   Armor Taken : 420 (2 YA, 2 RA)
+Damage Recvd: 2774   Health Taken: 400 (2 MH)
+
+Accuracy info for: ixsy
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/3        0      0      0     0
+R.Launcher  :   13.8    5/36       0      0      0     0
+LightningGun:   47.7  178/373      7      1      0     0
+Railgun     :   28.2   11/39       2      2      0     0
+
+Damage Given: 2865   Armor Taken : 590 (3 YA, 4 RA)
+Damage Recvd: 2133   Health Taken: 365 (3 MH)
+
+Map: cybdmpro2
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  xpown8           5   1  11   0  0   2  35  2180  3013    0      6
+RED  M1ragen8         4   0  11   0  0   1  26  2863  3467    0      4
+RED  Psyborgn8        3   1  12   0  0   1  25  2428  3219    0      4
+-----------------------------------------------------------------------
+RED  Totals           12   2  34   0  0   4   5  7471  9699    0      2
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE [FLY]Asuna       18   0   3   0  0   9  85  4303  2774    0     18
+BLUE ixsy              9   1   3   0  0   9  76  2865  2133    0     10
+BLUE ixxaaa            7   0   6   0  0   7  53  2531  2564    0      7
+-----------------------------------------------------------------------
+BLUE Totals           34   1  12   0  0  25  45  9699  7471    0     10
+
+
+
+
+Current time: 19:43:22 (21 Nov 2023)
+
+Dumped console text to stats/2023.11.21/194326.txt.

@@ -1,0 +1,98 @@
+
+
+Accuracy info for: Psyborgn8
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   42.8   12/28       3      2      0     0
+LightningGun:   31.2  322/1031     8      7      0     0
+Railgun     :   51.7   15/29       2      3      0     0
+
+Damage Given: 4767   Armor Taken : 195 (3 YA)
+Damage Recvd: 4347   Health Taken: 285 (2 MH)
+
+Accuracy info for: [bst]unk
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/5        0      0      0     0
+R.Launcher  :   14.9   23/154      3      2      0     0
+LightningGun:   28.6  256/894      7      6      0     0
+Railgun     :   40.6   13/32       6      4      0     0
+
+Damage Given: 4575   Armor Taken : 405 (2 YA, 2 RA)
+Damage Recvd: 4689   Health Taken: 455 (2 MH)
+
+Accuracy info for: [bst]KRISA
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/1        0      0      0     0
+R.Launcher  :   21.8    7/32       0      2      0     0
+LightningGun:   27.8  244/876      6      8      0     0
+Railgun     :   34.7   16/46       4      3      0     0
+Plasmagun   :   20.0    1/5        0      0      0     0
+
+Damage Given: 3948   Armor Taken : 340 (1 YA, 2 RA)
+Damage Recvd: 4707   Health Taken: 555 (3 MH)
+
+Accuracy info for: M1ragen8
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/2        0      0      0     0
+R.Launcher  :   11.2    9/80       1      1      0     0
+LightningGun:   32.5  268/823      9      6      0     0
+Railgun     :   30.1   19/63       1      6      0     0
+
+Damage Given: 4457   Armor Taken : 210 (4 YA)
+Damage Recvd: 4316   Health Taken: 325 (2 MH)
+
+Accuracy info for: [bst]Abibas
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :    4.0    1/25       0      0      0     0
+LightningGun:   31.8  305/959      5     10      0     0
+Railgun     :   33.8   21/62       4      2      0     0
+
+Damage Given: 4566   Armor Taken : 355 (3 YA, 2 RA)
+Damage Recvd: 4420   Health Taken: 300 (2 MH)
+
+Accuracy info for: xpown8
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/3        0      0      0     0
+R.Launcher  :   16.3    9/55       0      0      0     0
+LightningGun:   32.1  256/796      7      5      0     0
+Railgun     :   38.7   19/49       6      5      0     0
+
+Damage Given: 4592   Armor Taken : 615 (3 YA, 4 RA)
+Damage Recvd: 4426   Health Taken: 395 (1 MH)
+
+Map: q3shw14
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  Psyborgn8       13   3  12   0  0   6  57  4767  4347    0     16
+RED  xpown8          14   1  10   0  0   9  60  4592  4426    0     15
+RED  M1ragen8        11   1  13   0  0   6  48  4457  4316    0     12
+-----------------------------------------------------------------------
+RED  Totals           38   5  35   0  0  21  22 13816 13089    0     10
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE [bst]unk         16   1  12   2  0   4  55  4575  4689    0     15
+BLUE [bst]KRISA       10   1  14   0  0   5  44  3948  4707    0     11
+BLUE [bst]Abibas       9   0  12   1  0   5  40  4566  4420    0      8
+-----------------------------------------------------------------------
+BLUE Totals           35   2  38   3  0  14  15 13089 13816    0      7
+
+
+
+
+Current time: 16:22:27 (20 Nov 2023)
+
+Dumped console text to stats/2023.11.20/162227.txt.

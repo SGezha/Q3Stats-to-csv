@@ -1,0 +1,128 @@
+
+
+Accuracy info for: M1ragen8
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Gauntlet    :     0.0    1/0        1      0      0     0
+G.Launcher  :     0.0    0/1        0      0      0     0
+R.Launcher  :    20.8   20/96       3      3      0     0
+LightningGun:    34.7  224/644      3      5      0     0
+Railgun     :    46.6   21/45       6      4      0     0
+
+Damage Given: 4312    Armor Taken : 220    (2 YA, 0 RA)
+Damage Recvd: 4245    Health Taken: 375    (3 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: ixsy
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/15       0      0      0     0
+R.Launcher  :    38.0   19/50       3      3      0     0
+LightningGun:    47.8  281/587      6      4      0     0
+Railgun     :    40.7   11/27       4      4      0     0
+
+Damage Given: 4248    Armor Taken : 450    (2 YA, 3 RA)
+Damage Recvd: 4258    Health Taken: 100    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: ixxaaa
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Gauntlet    :     0.0    0/0        0      1      0     0
+Shotgun     :    54.5    6/11       0      0      0     0
+G.Launcher  :     0.0    0/2        0      0      0     0
+R.Launcher  :    26.5   25/94       2      2      0     0
+LightningGun:    30.5  114/373      3      3      0     0
+Railgun     :    50.0   24/48       4      6      0     0
+
+Damage Given: 4501    Armor Taken : 365    (2 YA, 2 RA)
+Damage Recvd: 4299    Health Taken: 0      (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: [FLY]Asuna
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     9.0    1/11       0      0      0     0
+R.Launcher  :    22.4   24/107      2      3      0     0
+LightningGun:    29.7  179/601      9      5      0     0
+Railgun     :    50.0   15/30       6      2      0     0
+
+Damage Given: 3897    Armor Taken : 765    (3 YA, 5 RA)
+Damage Recvd: 4280    Health Taken: 675    (5 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: Psyborgn8
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/3        0      0      0     0
+R.Launcher  :    10.1    6/59       1      2      0     0
+LightningGun:    39.9  304/761      2      6      0     0
+Railgun     :    57.1   20/35       5      5      0     0
+
+Damage Given: 4486    Armor Taken : 340    (2 YA, 2 RA)
+Damage Recvd: 3995    Health Taken: 400    (3 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: xpown8
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/11       0      0      0     0
+R.Launcher  :    23.3   21/90       4      2      0     0
+LightningGun:    40.7  360/883      7      7      0     0
+Railgun     :    54.5    6/11       1      5      0     0
+
+Damage Given: 4144    Armor Taken : 500    (1 YA, 4 RA)
+Damage Recvd: 4100    Health Taken: 75     (0 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: ts_dm5
+Time Remaining: 11:48
+
+Player          Kll Dth Sui Time FPM Eff     DG     DR  Score
+-------------------------------------------------------------
+[FLY]Asuna       17  10   0    8   2  62   3897   4280     22
+M1ragen8        13  12   0    8   1  52   4312   4245     15
+xpown8          12  14   0    8   1  46   4144   4100     13
+ixsy             13  11   0    8   1  54   4248   4258     13
+ixxaaa            9  12   0    8   1  42   4501   4299     10
+Psyborgn8        8  13   0    8   1  38   4486   3995      8
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+SG   54.5    6/11       0      0 ixxaaa
+GL    9.0    1/11       0      0 [FLY]Asuna
+RL   38.0   19/50       3      3 ixsy
+LG   47.8  281/587      6      4 ixsy
+RG   57.1   20/35       5      5 Psyborgn8
+Best 45.8  311/679               ixsy
+
+Awards List:
+------------------------------------------------------
+Most Thaws                  5    [FLY]Asuna
+Most Defense                2    [FLY]Asuna
+Most Assists                5    [FLY]Asuna
+Most Impressive             8    M1ragen8
+Most Excellent              1    M1ragen8
+Most Gauntlet Kills         1    M1ragen8
+Most Kills                 17    [FLY]Asuna
+Best Efficiency          62.9    [FLY]Asuna
+Best Kill Streak            4    [FLY]Asuna
+Best Skill               1018    [FLY]Asuna
+
+
+Current time: 19:57:39 (21 Nov 2023)
+
+Dumped console text to stats/2023.11.21/195743.txt.

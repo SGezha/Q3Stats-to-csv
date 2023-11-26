@@ -1,0 +1,102 @@
+
+
+Accuracy info for: HTF.Labr
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    0.0    0/11       0      0      0     0
+G.Launcher  :    7.1    1/14       0      0      0     0
+R.Launcher  :   24.4   24/98       5      2      0     0
+LightningGun:   20.6   66/320      0      2      0     0
+Railgun     :   21.7    5/23       2      1      0     0
+
+Damage Given: 2232   Armor Taken : 275 (3 YA, 1 RA)
+Damage Recvd: 2678   Health Taken: 75
+
+Accuracy info for: insolence
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :   20.8   10/48       1      3      0     0
+LightningGun:   39.4  207/525      3      4      0     0
+Railgun     :   56.2    9/16       1      3      0     0
+
+Damage Given: 3059   Armor Taken : 335 (6 YA)
+Damage Recvd: 3363   Health Taken: 205 (1 MH)
+
+Accuracy info for: asv
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :  100.0    2/2        0      0      0     0
+R.Launcher  :   22.5    9/40       1      4      0     0
+LightningGun:   22.7  181/797      4      3      0     0
+Railgun     :   34.4   10/29       3      5      0     0
+
+Damage Given: 2901   Armor Taken : 700 (4 YA, 5 RA)
+Damage Recvd: 4365   Health Taken: 590 (3 MH)
+
+Accuracy info for: CTPAHA*COBETOB
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/1        0      0      0     0
+R.Launcher  :   23.9   17/71       0      5      0     0
+LightningGun:   36.6   89/243      1      1      0     0
+Railgun     :   39.1    9/23       1      4      0     0
+Plasmagun   :   15.0    9/60       1      0      0     0
+
+Damage Given: 2566   Armor Taken : 140 (1 RA)
+Damage Recvd: 3142   Health Taken: 50
+
+Accuracy info for: HTF.yako
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/38       0      0      0     0
+R.Launcher  :   30.3   20/66       4      0      0     0
+LightningGun:   37.3  157/420      5      2      0     0
+Railgun     :   70.8   17/24       6      2      0     0
+Plasmagun   :    0.0    0/10       0      0      0     0
+
+Damage Given: 4143   Armor Taken : 825 (7 YA, 4 RA)
+Damage Recvd: 2770   Health Taken: 365 (3 MH)
+
+Accuracy info for: HTF.pdv
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   13.9    6/43       0      0      0     0
+R.Launcher  :   25.7   17/66       3      0      0     0
+LightningGun:   43.4  193/444      3      4      0     0
+Railgun     :   50.0   13/26       4      2      0     0
+Plasmagun   :                      0      1      0     0
+
+Damage Given: 4495   Armor Taken : 320 (4 YA, 1 RA)
+Damage Recvd: 3078   Health Taken: 290 (1 MH)
+
+Map: oxodm54
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  asv               8   0  12   0  0   1  40  2901  4365    0      8
+RED  insolence         5   0  10   0  0   2  33  3059  3363    0      5
+RED  CTPAHA*COBETOB    3   1  10   0  0   2  28  2566  3142    0      4
+-----------------------------------------------------------------------
+RED  Totals           16   1  32   0  0   5   5  8526 10870    0      2
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE HTF.yako         15   2   4   0  0   8  80  4143  2770    0     17
+BLUE HTF.Labr          7   3   5   0  0   9  66  2232  2678    0     10
+BLUE HTF.pdv          10   0   7   0  0   8  58  4495  3078    0     10
+-----------------------------------------------------------------------
+BLUE Totals           32   5  16   0  0  25  38 10870  8526    0     10
+
+
+
+
+Current time: 22:14:31 (22 Nov 2023)
+
+Dumped console text to stats/2023.11.22/221430.txt.

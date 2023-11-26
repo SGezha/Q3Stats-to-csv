@@ -1,0 +1,107 @@
+
+
+Accuracy info for: HTF.pdv
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+MachineGun  :                      0      1
+Shotgun     :    0.0    0/11       0      0      0     0
+G.Launcher  :    0.0    0/3        0      0      0     0
+R.Launcher  :    4.5    6/132      0      0      0     0
+LightningGun:   25.3   35/138      0      4      0     0
+Railgun     :   42.6   35/82       8      6      0     0
+
+Damage Given: 4053   Armor Taken : 1600 (13 YA, 9 RA)
+Damage Recvd: 4948   Health Taken: 760 (5 MH)
+
+Accuracy info for: {STF}-Mill
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+R.Launcher  :    7.3   12/163      0      2      0     0
+LightningGun:   31.4  111/353      3      2      0     0
+Railgun     :   36.1   17/47       1      5      0     0
+Plasmagun   :    0.0    0/3        0      0      0     0
+
+Damage Given: 3235   Armor Taken : 210 (1 YA, 1 RA)
+Damage Recvd: 3688   Health Taken: 275 (2 MH)
+
+Accuracy info for: HTF.Labr
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    1.8    1/54       0      0      0     0
+R.Launcher  :    8.3   14/168      0      4      0     0
+LightningGun:   35.0   61/174      0      5      0     0
+Railgun     :   32.0   17/53       2      6      0     0
+Plasmagun   :    0.0    0/9        0      0      0     0
+
+Damage Given: 2985   Armor Taken : 250 (4 YA)
+Damage Recvd: 4483   Health Taken: 150 (1 MH)
+
+Accuracy info for: HTF.yako
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    0.0    0/11       0      0      0     0
+G.Launcher  :    7.8    4/51       0      0      0     0
+R.Launcher  :   14.2   12/84       2      2      0     0
+LightningGun:   38.8  133/342      4      5      0     0
+Railgun     :   51.7   29/56       6      5      0     0
+Plasmagun   :    0.0    0/30       0      0      0     0
+
+Damage Given: 4837   Armor Taken : 790 (5 YA, 4 RA)
+Damage Recvd: 4419   Health Taken: 500 (2 MH)
+
+Accuracy info for: {STF}-Vyazemsk1y75-7
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+MachineGun  :   12.5    1/8        1      0
+Shotgun     :    0.0    0/88       0      0      0     0
+G.Launcher  :   14.2    1/7        0      0      0     0
+R.Launcher  :   15.5   31/200      5      0      0     0
+LightningGun:   26.9  119/441      5      1      0     0
+Railgun     :   47.3   18/38       4      5      0     0
+
+Damage Given: 4351   Armor Taken : 1270 (12 YA, 6 RA)
+Damage Recvd: 4194   Health Taken: 715 (5 MH)
+
+Accuracy info for: {STF}-Rimuru
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    0.0    0/33       0      0      0     0
+G.Launcher  :    0.0    0/20       0      0      0     0
+R.Launcher  :   13.4   11/82       1      0      0     0
+LightningGun:   30.7  104/338      6      1      0     0
+Railgun     :   55.1   48/87      12      6      0     0
+
+Damage Given: 6264   Armor Taken : 785 (5 YA, 5 RA)
+Damage Recvd: 3993   Health Taken: 360 (2 MH)
+
+Map: servitude
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  {STF}-Rimuru     19   2   7   0  0   8  75  6264  3993    0     21
+RED  {STF}-Vyazemsk1  15   1   6   0  0   9  72  4351  4194    0     16
+RED  {STF}-Mill        4   2   9   0  0   8  40  3235  3688    0      6
+-----------------------------------------------------------------------
+RED  Totals           38   5  22   0  0  25  31 13850 11875    0     10
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE HTF.yako         12   3  12   0  0   3  55  4837  4419    0     15
+BLUE HTF.pdv           8   2  11   0  0   4  47  4053  4948    0     10
+BLUE HTF.Labr          2   0  15   0  0   2  11  2985  4483    0      2
+-----------------------------------------------------------------------
+BLUE Totals           22   5  38   0  0   9   9 11875 13850    0      4
+
+
+
+
+Current time: 22:00:59 (19 Nov 2023)
+
+Dumped console text to stats/2023.11.19/220059.txt.

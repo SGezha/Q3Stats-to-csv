@@ -1,0 +1,109 @@
+
+
+Accuracy info for: HTF.Labr
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    0.0    0/22       0      0      0     0
+G.Launcher  :    3.0    2/65       0      0      0     0
+R.Launcher  :    6.8   12/175      4      2      0     0
+LightningGun:   28.1   97/345      4      2      0     0
+Railgun     :   25.6   10/39       1      2      0     0
+Plasmagun   :    0.0    0/7        0      0      0     0
+
+Damage Given: 2643   Armor Taken : 550 (5 YA, 3 RA)
+Damage Recvd: 3556   Health Taken: 510 (2 MH)
+
+Accuracy info for: insolence
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    5.2    1/19       0      0      0     0
+R.Launcher  :   14.6   13/89       1      4      0     0
+LightningGun:   40.8  204/499      4      6      0     0
+Railgun     :   43.7   14/32       3      4      0     0
+
+Damage Given: 3694   Armor Taken : 600 (4 YA, 4 RA)
+Damage Recvd: 4465   Health Taken: 225
+
+Accuracy info for: asv
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    0.0    0/11       0      0      0     0
+G.Launcher  :    0.0    0/3        0      0      0     0
+R.Launcher  :   23.7   24/101      2      2      0     0
+LightningGun:   25.6  130/507      3      4      0     0
+Railgun     :   22.2   14/63       2      4      0     0
+Plasmagun   :    4.3    2/46       0      0      0     0
+
+Damage Given: 3811   Armor Taken : 900 (4 YA, 7 RA)
+Damage Recvd: 4615   Health Taken: 845 (3 MH)
+
+Accuracy info for: CTPAHA*COBETOB
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    0.0    0/33       0      0      0     0
+G.Launcher  :   10.5    2/19       0      0      0     0
+R.Launcher  :   16.9   21/124      1      1      0     0
+LightningGun:   38.1  103/270      3      6      0     0
+Railgun     :   44.8   22/49       5      5      0     0
+Plasmagun   :    5.7    8/140      0      0      0     0
+
+Damage Given: 4477   Armor Taken : 820 (6 YA, 5 RA)
+Damage Recvd: 4521   Health Taken: 265
+
+Accuracy info for: HTF.yako
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+MachineGun  :   11.5    3/26       0      0
+Shotgun     :    0.0    0/11       0      0      0     0
+G.Launcher  :    3.8    1/26       0      0      0     0
+R.Launcher  :    8.7   12/137      3      2      0     0
+LightningGun:   40.0  291/727      6      3      0     0
+Railgun     :   60.9   25/41       4      4      0     0
+Plasmagun   :    0.0    0/90       0      0      0     0
+
+Damage Given: 5879   Armor Taken : 1035 (7 YA, 6 RA)
+Damage Recvd: 4537   Health Taken: 1150 (6 MH)
+
+Accuracy info for: HTF.pdv
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    0.0    0/11       0      0      0     0
+G.Launcher  :    3.5    1/28       0      0      0     0
+R.Launcher  :   10.2   12/117      0      0      0     0
+LightningGun:   45.6  271/593      6      5      0     0
+Railgun     :   45.8   22/48       8      4      0     0
+
+Damage Given: 5079   Armor Taken : 350 (2 YA, 2 RA)
+Damage Recvd: 3889   Health Taken: 880 (6 MH)
+
+Map: 6++
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  asv               7   2  10   0  0   6  47  3811  4615    0      9
+RED  CTPAHA*COBETOB    9   0  12   0  0   5  42  4477  4521    0      9
+RED  insolence         8   0  14   0  0   3  36  3694  4465    0      8
+-----------------------------------------------------------------------
+RED  Totals           24   2  36   0  0  14  14 11982 13601    0      6
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE HTF.yako         13   2   9   0  0   8  62  5879  4537    0     15
+BLUE HTF.pdv          14   0   9   0  0  10  60  5079  3889    0     14
+BLUE HTF.Labr          9   2   6   0  0  10  64  2643  3556    0     11
+-----------------------------------------------------------------------
+BLUE Totals           36   4  24   0  0  28  29 13601 11982    0     10
+
+
+
+
+Current time: 22:36:47 (22 Nov 2023)
+
+Dumped console text to stats/2023.11.22/223645.txt.

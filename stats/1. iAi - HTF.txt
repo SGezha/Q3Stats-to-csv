@@ -1,0 +1,105 @@
+
+
+Accuracy info for: ixxaaa
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :   27.2   12/44       0      0      0     0
+G.Launcher  :    0.0    0/7        0      0      0     0
+R.Launcher  :   32.0   16/50       5      2      0     0
+LightningGun:   35.8  134/374      4      2      0     0
+Railgun     :   55.5   15/27       7      1      0     0
+
+Damage Given: 3620   Armor Taken : 270 (4 YA)
+Damage Recvd: 2543   Health Taken: 190 (1 MH)
+
+Accuracy info for: HTF.Labr
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+Shotgun     :    0.0    0/22       0      0      0     0
+G.Launcher  :    6.6    2/30       0      0      0     0
+R.Launcher  :   15.5   16/103      3      1      0     0
+LightningGun:   32.7   39/119      1      4      0     0
+Railgun     :   18.1    2/11       1      7      0     0
+Plasmagun   :    0.0    0/11       0      0      0     0
+
+Damage Given: 1561   Armor Taken : 250 (2 YA, 1 RA)
+Damage Recvd: 3712   Health Taken: 225 (1 MH)
+
+Accuracy info for: ixsy
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/13       0      0      0     0
+R.Launcher  :   47.0   16/34       3      2      0     0
+LightningGun:   45.1  199/441      3      3      0     0
+Railgun     :   47.0   16/34       5      2      0     0
+Plasmagun   :   45.8   11/24       0      0      0     0
+
+Damage Given: 4573   Armor Taken : 290 (3 YA, 1 RA)
+Damage Recvd: 3457   Health Taken: 275 (2 MH)
+
+Accuracy info for: HTF.yako
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    6.6    1/15       1      0      0     0
+R.Launcher  :   37.9   22/58       1      6      0     0
+LightningGun:   37.9  185/488      3      2      0     0
+Railgun     :   50.0   11/22       2      4      0     0
+Plasmagun   :    0.0    0/16       0      0      0     0
+
+Damage Given: 4036   Armor Taken : 670 (1 YA, 5 RA)
+Damage Recvd: 4259   Health Taken: 300 (1 MH)
+
+Accuracy info for: [FLY]Asuna
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   16.6    1/6        0      1      0     0
+R.Launcher  :   27.9   33/118      7      0      0     0
+LightningGun:   33.2  174/524      1      1      0     0
+Railgun     :   40.0    6/15       1      4      0     0
+
+Damage Given: 3880   Armor Taken : 905 (8 YA, 4 RA)
+Damage Recvd: 3364   Health Taken: 535 (4 MH)
+
+Accuracy info for: HTF.pdv
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    3.5    1/28       0      0      0     0
+R.Launcher  :   23.4   11/47       0      8      0     0
+LightningGun:   25.2   30/119      2      2      0     0
+Railgun     :   50.0   27/54       4      2      0     0
+Plasmagun   :   25.0    1/4        0      0      0     0
+
+Damage Given: 3767   Armor Taken : 515 (5 YA, 2 RA)
+Damage Recvd: 4102   Health Taken: 265 (1 MH)
+
+Map: ztn3tourney1
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  ixxaaa           16   1   5   0  0   7  77  3620  2543    0     17
+RED  ixsy             11   0   7   0  0   6  61  4573  3457    0     11
+RED  [FLY]Asuna        9   1   6   0  0   7  62  3880  3364    0     10
+-----------------------------------------------------------------------
+RED  Totals           36   2  18   0  0  20  35 12073  9364    0     10
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE HTF.yako          7   2  12   0  0   1  42  4036  4259    0      9
+BLUE HTF.pdv           6   0  12   0  0   1  33  3767  4102    0      6
+BLUE HTF.Labr          5   1  12   0  0   1  33  1561  3712    0      6
+-----------------------------------------------------------------------
+BLUE Totals           18   3  36   0  0   3   5  9364 12073    0      2
+
+
+
+
+Current time: 21:20:54 (24 Nov 2023)
+
+Dumped console text to stats/2023.11.24/212057.txt.

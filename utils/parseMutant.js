@@ -10,7 +10,7 @@ const getIdenticalCount = (str1, str2) => {
   return count
 }
 
-module.exports = (path, data) => {
+module.exports = (path, data, nicks) => {
   if (data.includes('^>')) data.replace('^>', '')
 
   let stats = data.split('Map: ')[0].split('Accuracy info for: ')
@@ -68,9 +68,10 @@ module.exports = (path, data) => {
       if (
         obj.nick == '^>!<HEERO-2B' ||
         obj.nick == '^>!<Shantu' ||
-        obj.nick == '^>!<KF'
+        obj.nick == '^>!<KF' || 
+        obj.nick == '^<!>Shantu'
       ) {
-        obj.nick = obj.nick = obj.nick.slice(2)
+        obj.nick = obj.nick.slice(2)
       }
       if (needToTrue) {
         h = h.replace(obj.nick.slice(0, 15), ' ')
@@ -81,6 +82,7 @@ module.exports = (path, data) => {
         obj.damageGiven = +h.split(' ')[6].split(' ')[0]
         obj.damageRecvd = +h.split(' ')[7].split(' ')[0]
         obj.score = +h.split(' ')[8].split(' ')[0]
+        obj.thw = obj.score - obj.kills
       }
     })
 
@@ -92,28 +94,11 @@ module.exports = (path, data) => {
       obj.nick = `^>${obj.nick}`
     }
 
-    if (obj.nick == '^<!>Shantu') {
-      obj.nick = '^>!<Shantu'
-    }
+    //split nicks
+    let findChange = nicks.find(a => a.old == obj.nick)
 
-    if (obj.nick == 'Vyazemsk1y^5-7') {
-      obj.nick = '{STF}-Vyazemsk1y^5-7'
-    }
-
-    if (obj.nick == 'Asuna') {
-      obj.nick = '[FLY]Asuna'
-    }
-
-    if (obj.nick == 'Rimuru') {
-      obj.nick = '{STF}-Rimuru'
-    }
-
-    if (obj.nick == '{STF}-Vyazemsk1y75-7') {
-      obj.nick = '{STF}-Vyazemsk1y^5-7'
-    }
-
-    if (obj.nick == '.unk') {
-      obj.nick = '[bst]unk'
+    if (findChange) {
+      obj.nick = findChange.new
     }
 
     // weapons stats
@@ -161,5 +146,8 @@ module.exports = (path, data) => {
     players.push(obj)
   })
 
-  return players
+  return {
+    players,
+    map
+  }
 }

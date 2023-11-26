@@ -1,0 +1,135 @@
+
+
+Accuracy info for: R72.LOKOMOTIV
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/10       0      0      0     0
+R.Launcher  :     9.4   12/127      1      0      0     0
+LightningGun:    34.5  304/879      8      7      0     0
+Railgun     :    46.8   22/47       5      2      0     0
+
+Damage Given: 4942    Armor Taken : 1150   (3 YA, 10 RA)
+Damage Recvd: 4442    Health Taken: 140    (0 MH)
+Secs played : 802
+Suicides    : 3       Chat Frags  : 0
+
+
+Accuracy info for: ^>!<Shantu
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     4.5    2/44       0      0      0     0
+G.Launcher  :     0.0    0/15       0      0      0     0
+R.Launcher  :    19.6   10/51       2      3      0     0
+LightningGun:    34.5  314/908     10      6      0     0
+Railgun     :    43.1   19/44       0      4      0     0
+Plasmagun   :     0.0    0/72       0      0      0     0
+
+Damage Given: 4583    Armor Taken : 400    (2 YA, 3 RA)
+Damage Recvd: 4950    Health Taken: 555    (4 MH)
+Secs played : 802
+Suicides    : 3       Chat Frags  : 0
+
+
+Accuracy info for: ^>!<HEERO-2B
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/10       0      0      0     0
+R.Launcher  :    26.9   21/78       1      1      0     0
+LightningGun:    33.7  136/403      5      5      0     0
+Railgun     :    33.8   22/65       5      7      0     0
+
+Damage Given: 4017    Armor Taken : 550    (3 YA, 4 RA)
+Damage Recvd: 4143    Health Taken: 275    (1 MH)
+Secs played : 802
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: Cybra
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/0        0      1      0     0
+G.Launcher  :     0.0    0/1        0      0      0     0
+R.Launcher  :    14.2   16/112      4      2      0     0
+LightningGun:    33.4  206/615      6      5      0     0
+Railgun     :    37.8   31/82       6      2      0     0
+
+Damage Given: 5094    Armor Taken : 450    (1 YA, 4 RA)
+Damage Recvd: 4849    Health Taken: 875    (5 MH)
+Secs played : 802
+Suicides    : 1       Chat Frags  : 0
+
+
+Accuracy info for: eMg!kf
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     9.0    1/11       1      0      0     0
+G.Launcher  :     0.0    0/37       1      0      0     0
+R.Launcher  :    15.6   18/115      1      1      0     0
+LightningGun:    55.2  214/387      2      8      0     0
+Railgun     :    52.5   31/59       2      6      0     0
+Plasmagun   :     0.0    0/24       0      0      0     0
+
+Damage Given: 5221    Armor Taken : 450    (3 YA, 3 RA)
+Damage Recvd: 4915    Health Taken: 470    (2 MH)
+Secs played : 802
+Suicides    : 4       Chat Frags  : 0
+
+
+Accuracy info for: John Coffey
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/11       0      0      0     0
+G.Launcher  :     0.0    0/19       0      1      0     0
+R.Launcher  :     7.0    7/99       0      2      0     0
+LightningGun:    32.1  222/691      5      5      0     0
+Railgun     :    48.9   23/47       6      3      0     0
+
+Damage Given: 4123    Armor Taken : 450    (1 YA, 4 RA)
+Damage Recvd: 4496    Health Taken: 485    (0 MH)
+Secs played : 802
+Suicides    : 3       Chat Frags  : 0
+
+
+Map: overkill
+Time Remaining: 6:37
+
+Player          Kll Dth Sui Time  FPH Eff     DG     DR  Score
+--------------------------------------------------------------
+Cybra            16  10   1   13   71  61   5094   4849     16
+R72.LOKOMOTIV    14   9   3   13   62  60   4942   4442     15
+!<Shantu       12  13   3   13   53  48   4583   4950     12
+!<HEERO-2B     11  13   0   13   49  45   4017   4143     11
+John Coffey      11  11   3   13   49  50   4123   4496      8
+eMg!kf            7  15   4   13   31  31   5221   4915      4
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+SG    9.0    1/11       1      0 eMg!kf
+RL   26.9   21/78       1      1 !<HEERO-2B
+LG   55.2  214/387      2      8 eMg!kf
+RG   52.5   31/59       2      6 eMg!kf
+Best 42.0  266/633               eMg!kf
+
+Awards List:
+------------------------------------------------------
+Most Suicides               4    eMg!kf
+Most Thaws                  4    R72.LOKOMOTIV
+Most Defense                2    !<HEERO-2B
+Most Assists                4    R72.LOKOMOTIV
+Most Impressive            10    eMg!kf
+Most Kills                 16    Cybra
+Best Efficiency          61.5    Cybra
+Best Kill Streak            7    Cybra
+Best Skill               1014    Cybra
+
+
+Current time: 20:53:21 (24 Nov 2023)
+
+Dumped console text to stats/2023.11.24/225321.txt.

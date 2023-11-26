@@ -1,0 +1,128 @@
+
+eMg!kf: gg
+
+Accuracy info for: ^>!<HEERO-2B
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     8.3    1/12       0      0      0     0
+R.Launcher  :    23.4   19/81       3      4      0     0
+LightningGun:    35.0  143/408      3      4      0     0
+Railgun     :    64.7   33/51       5      3      0     0
+
+Damage Given: 5177    Armor Taken : 340    (3 YA, 1 RA)
+Damage Recvd: 4095    Health Taken: 520    (4 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: eMg!kf
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     9.0    4/44       0      0      0     0
+G.Launcher  :     7.4    2/27       0      0      0     0
+R.Launcher  :     8.3    6/72       1      3      0     0
+LightningGun:    41.9  327/779      7      6      0     0
+Railgun     :    57.6   15/26       3      5      0     0
+
+Damage Given: 4158    Armor Taken : 405    (4 YA, 0 RA)
+Damage Recvd: 4665    Health Taken: 410    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: [bst]Abibas
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/1        0      0      0     0
+R.Launcher  :    12.6   15/119      1      2      0     0
+LightningGun:    38.1  409/1072    12      5      0     0
+Railgun     :    39.6   21/53       2      2      0     0
+
+Damage Given: 5480    Armor Taken : 555    (3 YA, 2 RA)
+Damage Recvd: 4323    Health Taken: 685    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: [bst]KRISA
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/2        0      0      0     0
+R.Launcher  :    21.9   20/91       5      1      0     0
+LightningGun:    32.5  165/507      5      5      0     0
+Railgun     :    62.5   30/48       5      4      0     0
+
+Damage Given: 4994    Armor Taken : 920    (1 YA, 8 RA)
+Damage Recvd: 4520    Health Taken: 355    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: .unk
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     7.6    1/13       1      0      0     0
+R.Launcher  :    14.5   31/213      5      2      0     0
+LightningGun:    34.3  141/411      2      4      0     0
+Railgun     :    35.7   10/28       3      4      0     0
+Plasmagun   :     0.0    0/6        0      0      0     0
+
+Damage Given: 3769    Armor Taken : 550    (3 YA, 3 RA)
+Damage Recvd: 4009    Health Taken: 590    (4 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: ^<!>Shantu
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/11       0      0      0     0
+G.Launcher  :     0.0    0/10       0      1      0     0
+R.Launcher  :    25.9   21/81       1      4      0     0
+LightningGun:    30.9  208/673      4      9      0     0
+Railgun     :    33.3   13/39       2      2      0     0
+
+Damage Given: 3517    Armor Taken : 465    (3 YA, 2 RA)
+Damage Recvd: 5218    Health Taken: 345    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: cybdmpro2
+Time Remaining: 10:40
+
+Player          Kll Dth Sui Time FPM Eff     DG     DR  Score
+-------------------------------------------------------------
+[bst]KRISA       15  10   0    9   1  60   4994   4520     16
+[bst]Abibas      15   9   0    9   1  62   5480   4323     16
+!<HEERO-2B     11  11   0    9   1  50   5177   4095     12
+eMg!kf           11  14   0    9   1  44   4158   4665     12
+.unk             11  10   0    9   1  52   3769   4009     11
+!>Shantu        7  16   0    9   0  30   3517   5218      9
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+SG    9.0    4/44       0      0 eMg!kf
+GL    8.3    1/12       0      0 !<HEERO-2B
+RL   25.9   21/81       1      4 !>Shantu
+LG   41.9  327/779      7      6 eMg!kf
+RG   64.7   33/51       5      3 !<HEERO-2B
+Best 37.3  354/948               eMg!kf
+
+Awards List:
+------------------------------------------------------
+Most Thaws                  2    !>Shantu
+Most Defense                1    [bst]Abibas
+Most Assists                2    !>Shantu
+Most Impressive            13    !<HEERO-2B
+Most Excellent              1    [bst]KRISA
+Most Kills                 15    [bst]KRISA
+Best Efficiency          62.5    [bst]Abibas
+Best Kill Streak            5    [bst]KRISA
+Best Skill               1015    [bst]Abibas
+
+
+Current time: 22:17:44 (07 Nov 2023)
+
+Dumped console text to stats/2023.11.07/221746.txt.

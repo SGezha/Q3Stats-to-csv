@@ -1,0 +1,132 @@
+
+
+
+Accuracy info for: {RQF}Mistik31
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/10       0      0      0     0
+R.Launcher  :    18.3    9/49       1      2      0     0
+LightningGun:    39.1  192/490      2     10      0     0
+Railgun     :    45.4   10/22       2      0      0     0
+Plasmagun   :     0.0    0/3        0      0      0     0
+
+Damage Given: 2568    Armor Taken : 190    (1 YA, 1 RA)
+Damage Recvd: 3284    Health Taken: 100    (0 MH)
+Secs played : 408
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {RQF}Sub-Zero
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/18       0      0      0     0
+R.Launcher  :    19.1    9/47       1      4      0     0
+LightningGun:    42.5  139/327      2      6      0     0
+Railgun     :    57.1   12/21       2      3      0     0
+
+Damage Given: 2664    Armor Taken : 215    (0 YA, 2 RA)
+Damage Recvd: 3489    Health Taken: 150    (0 MH)
+Secs played : 408
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: tc belaruskij
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/22       0      0      0     0
+R.Launcher  :    34.2   25/73       4      3      0     0
+LightningGun:    40.4  308/761      7      1      0     0
+Railgun     :    52.6   10/19       2      3      0     0
+
+Damage Given: 4235    Armor Taken : 525    (1 YA, 4 RA)
+Damage Recvd: 3366    Health Taken: 255    (1 MH)
+Secs played : 408
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: ///Mus1n*
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/2        0      0      0     0
+R.Launcher  :    18.7    9/48       2      0      0     0
+LightningGun:    35.8  266/742     11      4      0     0
+Railgun     :    35.7    5/14       0      0      0     0
+Plasmagun   :     0.0    0/17       0      0      0     0
+
+Damage Given: 2652    Armor Taken : 315    (1 YA, 2 RA)
+Damage Recvd: 1976    Health Taken: 280    (2 MH)
+Secs played : 408
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: AdrenalineRush
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/22       0      0      0     0
+G.Launcher  :     0.0    0/6        0      0      0     0
+R.Launcher  :    30.2   13/43       1      0      0     0
+LightningGun:    41.1  234/569      6      1      0     0
+Railgun     :    57.8   11/19       2      4      0     0
+
+Damage Given: 3354    Armor Taken : 510    (3 YA, 3 RA)
+Damage Recvd: 2783    Health Taken: 545    (4 MH)
+Secs played : 408
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: [brn]
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/11       0      0      0     0
+G.Launcher  :     0.0    0/35       0      0      0     0
+R.Launcher  :    22.3   15/67       1      1      0     0
+LightningGun:    33.5  169/503      2      8      0     0
+Railgun     :    47.3    9/19       3      1      0     0
+
+Damage Given: 2919    Armor Taken : 400    (3 YA, 2 RA)
+Damage Recvd: 3444    Health Taken: 470    (2 MH)
+Secs played : 408
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: Q3shw24
+Time Remaining: 13:11
+
+Player          Kll Dth Sui Time  FPH Eff     DG     DR  Score
+--------------------------------------------------------------
+///Mus1n*        13   4   0    6  114  76   2652   1976     15
+tc belaruskij    13   7   0    6  114  65   4235   3366     13
+AdrenalineRush    9   5   0    6   79  64   3354   2783     10
+{RQF}Mistik31     5  12   0    6   44  29   2568   3284      6
+{RQF}Sub-Zero     5  13   0    6   44  27   2664   3489      6
+[brn]             6  10   0    6   52  37   2919   3444      6
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+RL   34.2   25/73       4      3 tc belaruskij
+LG   42.5  139/327      2      6 {RQF}Sub-Zero
+RG   57.8   11/19       2      4 AdrenalineRush
+Best 39.3  344/875               tc belaruskij
+
+Awards List:
+------------------------------------------------------
+Most Thaws                  2    ///Mus1n*
+Most Assists                2    ///Mus1n*
+Most Impressive             6    {RQF}Sub-Zero
+Most Excellent              3    ///Mus1n*
+Most Kills                 13    ///Mus1n*
+Best Efficiency          76.4    ///Mus1n*
+Best Kill Streak            7    ///Mus1n*
+Best Skill               1017    ///Mus1n*
+
+
+Current time: 19:20:57 (24 Nov 2023)
+
+Dumped console text to stats/2023.11.24/192057.txt.

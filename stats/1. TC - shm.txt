@@ -1,0 +1,99 @@
+
+
+Accuracy info for: tc belaruskij
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   10.0    1/10       0      0      0     0
+R.Launcher  :    8.7    9/103      0      4      0     0
+LightningGun:   29.3  248/845      6      4      0     0
+Railgun     :   55.5   30/54       6      8      0     0
+
+Damage Given: 5266   Armor Taken : 740 (1 YA, 6 RA)
+Damage Recvd: 5235   Health Taken: 325 (1 MH)
+
+Accuracy info for: AdrenalineRush
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :   13.3    2/15       0      0      0     0
+R.Launcher  :   13.4   11/82       0      1      0     0
+LightningGun:   31.4  334/1063    10      5      0     0
+Railgun     :   46.3   19/41       6      4      0     0
+
+Damage Given: 5495   Armor Taken : 990 (9 YA, 5 RA)
+Damage Recvd: 4984   Health Taken: 475 (3 MH)
+
+Accuracy info for: ///Mus1n*
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/23       0      0      0     0
+R.Launcher  :   10.0   14/140      0      3      0     0
+LightningGun:   29.7  343/1152    10      7      0     0
+Railgun     :   51.5   17/33       1      6      0     0
+
+Damage Given: 4895   Armor Taken : 550 (4 YA, 3 RA)
+Damage Recvd: 5610   Health Taken: 800 (6 MH)
+
+Accuracy info for: shmizzy
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/12       0      0      0     0
+R.Launcher  :    8.4    9/106      1      0      0     0
+LightningGun:   26.2  275/1047     2     13      0     0
+Railgun     :   38.2   26/68       3      1      0     0
+
+Damage Given: 5267   Armor Taken : 485 (1 YA, 4 RA)
+Damage Recvd: 5166   Health Taken: 700 (6 MH)
+
+Accuracy info for: shmorie
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    5.5    1/18       0      0      0     0
+R.Launcher  :   19.3   30/155      4      0      0     0
+LightningGun:   30.7  150/488      3      7      0     0
+Railgun     :   31.8   14/44       9      5      0     0
+
+Damage Given: 4153   Armor Taken : 465 (5 YA, 2 RA)
+Damage Recvd: 4496   Health Taken: 300
+
+Accuracy info for: shmodin
+
+Weapon        Accrcy Hits/Atts Kills Deaths Pickup Drops
+--------------------------------------------------------
+G.Launcher  :    0.0    0/10       0      0      0     0
+R.Launcher  :   11.1   17/152      3      0      0     0
+LightningGun:   36.0  260/722     11      6      0     0
+Railgun     :   51.5   34/66       6      7      0     0
+
+Damage Given: 6409   Armor Taken : 915 (6 YA, 5 RA)
+Damage Recvd: 5994   Health Taken: 600 (1 MH)
+
+Map: oxodm32
+Time Remaining: MATCH COMPLETE
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+RED  AdrenalineRush   16   2  10   0  0   9  64  5495  4984    0     18
+RED  tc belaruskij    12   0  16   0  0   5  42  5266  5235    0     12
+RED  ///Mus1n*        11   1  16   0  0   4  42  4895  5610    0     12
+-----------------------------------------------------------------------
+RED  Totals           39   3  42   0  0  18  17 15656 15829    0      9
+
+TEAM Player          Kll Thw Dth Sui TK WIN Eff    DG    DR   TD  Score
+-----------------------------------------------------------------------
+BLUE shmodin          20   1  13   0  0   8  61  6409  5994    0     21
+BLUE shmorie          16   3  12   0  0   8  61  4153  4496    0     19
+BLUE shmizzy           6   0  14   0  0   6  30  5267  5166    0      6
+-----------------------------------------------------------------------
+BLUE Totals           42   4  39   0  0  22  20 15829 15656    0     10
+
+
+
+
+Current time: 20:32:30 (19 Nov 2023)
+
+Dumped console text to stats/2023.11.19/203230.txt.

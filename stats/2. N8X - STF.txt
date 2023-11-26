@@ -1,0 +1,121 @@
+
+
+Accuracy info for: {STF}-Mill
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+R.Launcher  :    11.7    4/34       0      0      0     0
+LightningGun:    33.4  218/651      6     10      0     0
+Railgun     :    34.2   12/35       2      5      0     0
+
+Damage Given: 2793    Armor Taken : 200    (4 YA, 0 RA)
+Damage Recvd: 4564    Health Taken: 125    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {STF}-Rimuru
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+G.Launcher  :     0.0    0/1        0      0      0     0
+R.Launcher  :    15.2    7/46       2      0      0     0
+LightningGun:    45.4  253/557      5      6      0     0
+Railgun     :    40.7   42/103     10      3      0     0
+
+Damage Given: 5891    Armor Taken : 350    (3 YA, 2 RA)
+Damage Recvd: 4221    Health Taken: 350    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: {STF}-Vyazemsk1y^5-7
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Machinegun  :     8.3    1/12       0      0      0     0
+Shotgun     :     0.0    0/11       0      0      0     0
+R.Launcher  :    15.1   13/86       2      2      0     0
+LightningGun:    34.7  280/805      8     10      0     0
+Railgun     :    42.4   14/33       4      2      0     0
+
+Damage Given: 4346    Armor Taken : 500    (0 YA, 5 RA)
+Damage Recvd: 4776    Health Taken: 275    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: xpown8
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+R.Launcher  :    17.3   13/75       1      1      0     0
+LightningGun:    27.0  297/1096    13      4      0     0
+Railgun     :    38.9   23/59       2      7      0     0
+
+Damage Given: 4812    Armor Taken : 350    (3 YA, 2 RA)
+Damage Recvd: 4565    Health Taken: 475    (4 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: Psyborgn8
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+R.Launcher  :     3.5    1/28       0      2      0     0
+LightningGun:    43.5  448/1029     9      8      0     0
+Railgun     :    60.9   25/41       3      5      0     0
+
+Damage Given: 5429    Armor Taken : 350    (5 YA, 1 RA)
+Damage Recvd: 4551    Health Taken: 175    (1 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Accuracy info for: M1ragen8
+
+Weapon         Accrcy Hits/Atts Kills Deaths Pickup Drops
+---------------------------------------------------------
+Shotgun     :     0.0    0/11       0      0      0     0
+G.Launcher  :     0.0    0/7        0      0      0     0
+R.Launcher  :     3.9    3/76       1      1      0     0
+LightningGun:    40.4  181/448      4      7      0     0
+Railgun     :    35.5   21/59       5      4      0     0
+
+Damage Given: 3473    Armor Taken : 400    (0 YA, 4 RA)
+Damage Recvd: 3845    Health Taken: 250    (2 MH)
+Suicides    : 0       Chat Frags  : 0
+
+
+Map: ts_ca1
+Time Remaining: 11:57
+
+Player          Kll Dth Sui Time FPM Eff     DG     DR  Score
+-------------------------------------------------------------
+{STF}-Rimuru     17   9   0    8   2  65   5891   4221     19
+xpown8          16  12   0    8   2  57   4812   4565     17
+{STF}-Vyazemsk1  14  14   0    8   1  50   4346   4776     14
+Psyborgn8       12  15   0    8   1  44   5429   4551     12
+M1ragen8        10  12   0    8   1  45   3473   3845     10
+{STF}-Mill        8  15   0    8   1  34   2793   4564      8
+
+Best Match Accuracies:
+WP    Acc Hits/Atts Kills Deaths
+------------------------------------------------------
+MG    8.3    1/12       0      0 {STF}-Vyazemsk1y-7
+RL   17.3   13/75       1      1 xpown8
+LG   45.4  253/557      5      6 {STF}-Rimuru
+RG   60.9   25/41       3      5 Psyborgn8
+Best 43.1  474/1098              Psyborgn8
+
+Awards List:
+------------------------------------------------------
+Most Thaws                  2    {STF}-Rimuru
+Most Assists                2    {STF}-Rimuru
+Most Impressive            13    {STF}-Rimuru
+Most Excellent              1    {STF}-Rimuru
+Most Kills                 17    {STF}-Rimuru
+Best Efficiency          65.3    {STF}-Rimuru
+Best Kill Streak            7    xpown8
+Best Skill               1021    {STF}-Rimuru
+
+
+Current time: 17:38:30 (20 Nov 2023)
+
+Dumped console text to stats/2023.11.20/173830.txt.

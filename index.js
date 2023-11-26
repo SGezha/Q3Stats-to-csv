@@ -2,19 +2,24 @@ const fs = require('fs')
 const parseGame = require('./utils/parseGame.js')
 let converter = require('json-2-csv')
 const playersBase = []
+const mapsBase = []
+let nicks = []
 
 const statsDir = fs.readdirSync('stats')
 
+if(fs.existsSync('fixNick.json')) nicks = JSON.parse(fs.readFileSync('fixNick.json').toString())
+
 statsDir.forEach((path) => {
-  const playersStats = parseGame(`stats/${path}`)
+  const playersStats = parseGame(`stats/${path}`, nicks)
 
   if(!playersStats) return console.log(`Error parse file - stats/${path}`)
 
   try {
     //   add info to bd
-    playersStats.forEach((pl) => {
+    playersStats.players.forEach((pl) => {
       const profile = playersBase.find((a) => a.nick == pl.nick)
       if (profile) {
+        profile.games += 1
         profile.kills += pl.kills
         profile.deaths += pl.deaths
         profile.thw += pl.thw
@@ -106,19 +111,33 @@ statsDir.forEach((path) => {
         }
         playersBase.push({
           ...pl,
+          games: 1,
           weaponStats
         })
       }
     })
+
+    const map = mapsBase.find((a) => a.name == playersStats.map)
+    if(map) {
+      map.count += 1
+    } else {
+      mapsBase.push({
+        name: playersStats.map,
+        count: 1
+      })
+    }
   } catch (er) {
     console.log(er)
   }
 })
 
 async function start() {
-  const csv = await converter.json2csv(playersBase)
-  fs.writeFileSync('result.csv', csv)
+  const plCSV = await converter.json2csv(playersBase)
+  const mapCSV = await converter.json2csv(mapsBase)
+  fs.writeFileSync('result.csv', plCSV)
+  fs.writeFileSync('maps.csv', mapCSV)
   console.log('Parse completed -->> result.csv')
+  console.log('Parse completed -->> maps.csv')
   console.log('Консоль закроется через 30 сек')
   setTimeout(() => {}, 30 * 1000)
 }

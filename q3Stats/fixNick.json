@@ -1,0 +1,50 @@
+[
+  {
+    "old": "^<!>Shantu",
+    "new": "^>!<Shantu"
+  },
+  {
+    "old": "Vyazemsk1y^5-7",
+    "new": "{STF}-Vyazemsk1y^5-7"
+  },
+  {
+    "old": "Asuna",
+    "new": "[FLY]Asuna"
+  },
+  {
+    "old": "Rimuru",
+    "new": "{STF}-Rimuru"
+  },
+  {
+    "old": "{STF}-Vyazemsk1y75-7",
+    "new": "{STF}-Vyazemsk1y^5-7"
+  },
+  {
+    "old": ".unk",
+    "new": "[bst]unk"
+  },
+  {
+    "old": "///Mus1n",
+    "new": "///Mus1n*"
+  },
+  {
+    "old": "*BMB*gepron1x",
+    "new": "*BMB* gepron1x"
+  },
+  {
+    "old": "izolenta",
+    "new": "insolence"
+  },
+  {
+    "old": "RedMachine",
+    "new": "CTPAHA*COBETOB"
+  },
+  {
+    "old": "HTF pdv",
+    "new": "HTF.pdv"
+  },
+  {
+    "old": "HTF. Labr",
+    "new": "HTF.Labr "
+  }
+]
